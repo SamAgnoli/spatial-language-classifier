@@ -1,0 +1,47 @@
+utterance,coded_word,spatial_or_not,session_id,line,is_candidate
+look it is above the shelf.,look,0,103,1,False
+look it is above the shelf.,it,0,103,1,False
+look it is above the shelf.,is,0,103,1,False
+look it is above the shelf.,above,1,103,1,True
+look it is above the shelf.,the,0,103,1,False
+look it is above the shelf.,shelf,0,103,1,False
+what is below it then?,what,0,103,2,False
+what is below it then?,is,0,103,2,False
+what is below it then?,below,1,103,2,True
+what is below it then?,it,0,103,2,False
+what is below it then?,then,0,103,2,False
+a long line of blocks in the middle.,a,0,103,3,False
+a long line of blocks in the middle.,long,1,103,3,True
+a long line of blocks in the middle.,line,1,103,3,True
+a long line of blocks in the middle.,of,0,103,3,False
+a long line of blocks in the middle.,blocks,0,103,3,False
+a long line of blocks in the middle.,in,1,103,3,True
+a long line of blocks in the middle.,the,0,103,3,False
+a long line of blocks in the middle.,middle,1,103,3,True
+that is a lot of blocks.,that,0,103,4,False
+that is a lot of blocks.,is,0,103,4,False
+that is a lot of blocks.,a,0,103,4,False
+that is a lot of blocks.,lot,0,103,4,True
+that is a lot of blocks.,of,0,103,4,False
+that is a lot of blocks.,blocks,0,103,4,False
+what goes on the bottom?,what,0,107,1,False
+what goes on the bottom?,goes,0,107,1,True
+what goes on the bottom?,on,1,107,1,True
+what goes on the bottom?,the,0,107,1,False
+what goes on the bottom?,bottom,1,107,1,True
+the big flat board.,the,0,107,2,False
+the big flat board.,big,1,107,2,True
+the big flat board.,flat,1,107,2,True
+the big flat board.,board,0,107,2,False
+and then we connect the top part.,and,0,107,3,False
+and then we connect the top part.,then,0,107,3,False
+and then we connect the top part.,we,0,107,3,False
+and then we connect the top part.,connect,1,107,3,True
+and then we connect the top part.,the,0,107,3,False
+and then we connect the top part.,top,1,107,3,True
+and then we connect the top part.,part,1,107,3,True
+it is upside down now.,it,0,107,4,False
+it is upside down now.,is,0,107,4,False
+it is upside down now.,upside,1,107,4,True
+it is upside down now.,down,1,107,4,True
+it is upside down now.,now,0,107,4,False

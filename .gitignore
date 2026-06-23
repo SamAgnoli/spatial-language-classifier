@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Notebook / run outputs
+predictions.csv
+processed/
+models/
+outputs/
+runs/
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db

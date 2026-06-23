@@ -1,0 +1,5 @@
+{
+  "calib_method": "temp",
+  "temperature_T": 1.816,
+  "note": "Temperature fitted on the original validation candidates (section 7.5). Used by notebook 03 to report calibrated confidence that matches the published model. Regenerate from your own run if you fine-tune a new model."
+}

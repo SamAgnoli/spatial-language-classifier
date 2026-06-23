@@ -1,0 +1,50 @@
+utterance,coded_word,spatial_or_not,session_id,line,is_candidate
+you are right that was a good idea.,you,0,102,1,False
+you are right that was a good idea.,are,0,102,1,False
+you are right that was a good idea.,right,0,102,1,True
+you are right that was a good idea.,that,0,102,1,False
+you are right that was a good idea.,was,0,102,1,False
+you are right that was a good idea.,a,0,102,1,False
+you are right that was a good idea.,good,0,102,1,True
+you are right that was a good idea.,idea,0,102,1,False
+the car is behind the wall.,the,0,102,2,False
+the car is behind the wall.,car,0,102,2,False
+the car is behind the wall.,is,0,102,2,False
+the car is behind the wall.,behind,1,102,2,True
+the car is behind the wall.,the,0,102,2,False
+the car is behind the wall.,wall,1,102,2,True
+can you move it next to the door?,can,0,102,3,False
+can you move it next to the door?,you,0,102,3,False
+can you move it next to the door?,move,1,102,3,True
+can you move it next to the door?,it,0,102,3,False
+can you move it next to the door?,next,1,102,3,True
+can you move it next to the door?,to,0,102,3,True
+can you move it next to the door?,the,0,102,3,False
+can you move it next to the door?,door,1,102,3,True
+I want to go back home.,i,0,102,4,False
+I want to go back home.,want,0,102,4,False
+I want to go back home.,to,0,102,4,True
+I want to go back home.,go,0,102,4,True
+I want to go back home.,back,0,102,4,True
+I want to go back home.,home,0,102,4,False
+how far did the marble travel?,how,0,109,1,False
+how far did the marble travel?,far,1,109,1,True
+how far did the marble travel?,did,0,109,1,False
+how far did the marble travel?,the,0,109,1,False
+how far did the marble travel?,marble,0,109,1,False
+how far did the marble travel?,travel,0,109,1,False
+all the way through the tube.,all,0,109,2,True
+all the way through the tube.,the,0,109,2,False
+all the way through the tube.,way,1,109,2,True
+all the way through the tube.,through,1,109,2,True
+all the way through the tube.,the,0,109,2,False
+all the way through the tube.,tube,1,109,2,True
+around the curve too?,around,1,109,3,True
+around the curve too?,the,0,109,3,False
+around the curve too?,curve,1,109,3,True
+around the curve too?,too,0,109,3,False
+yes it was really fast.,yes,0,109,4,False
+yes it was really fast.,it,0,109,4,False
+yes it was really fast.,was,0,109,4,False
+yes it was really fast.,really,0,109,4,False
+yes it was really fast.,fast,0,109,4,False

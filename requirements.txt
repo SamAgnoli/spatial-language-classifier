@@ -1,0 +1,19 @@
+# Core
+transformers>=4.40
+torch>=2.2
+huggingface_hub>=0.23
+pandas
+numpy
+
+# Training + evaluation (notebook 02)
+datasets
+accelerate
+evaluate
+scikit-learn
+matplotlib
+
+# The base microsoft/deberta-v3-base tokenizer is SentencePiece-based, so building it
+# (notebook 02, section 4) needs both of these. The *published* fine-tuned model ships a
+# fast tokenizer.json, so notebook 03 does not require them.
+sentencepiece
+protobuf

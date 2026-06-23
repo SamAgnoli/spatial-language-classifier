@@ -1,0 +1,146 @@
+utterance,coded_word,spatial_or_not,session_id,line,is_candidate
+tell me about what you built in the lab today.,tell,0,101,1,False
+tell me about what you built in the lab today.,me,0,101,1,False
+tell me about what you built in the lab today.,about,0,101,1,True
+tell me about what you built in the lab today.,what,0,101,1,False
+tell me about what you built in the lab today.,you,0,101,1,False
+tell me about what you built in the lab today.,built,0,101,1,False
+tell me about what you built in the lab today.,in,0,101,1,True
+tell me about what you built in the lab today.,the,0,101,1,False
+tell me about what you built in the lab today.,lab,0,101,1,False
+tell me about what you built in the lab today.,today,0,101,1,False
+I put the wheel on top of the box.,i,0,101,2,False
+I put the wheel on top of the box.,put,0,101,2,True
+I put the wheel on top of the box.,the,0,101,2,False
+I put the wheel on top of the box.,wheel,0,101,2,False
+I put the wheel on top of the box.,on,1,101,2,True
+I put the wheel on top of the box.,top,1,101,2,True
+I put the wheel on top of the box.,of,0,101,2,False
+I put the wheel on top of the box.,the,0,101,2,False
+I put the wheel on top of the box.,box,0,101,2,False
+did it roll across the table?,did,0,101,3,False
+did it roll across the table?,it,0,101,3,False
+did it roll across the table?,roll,1,101,3,True
+did it roll across the table?,across,1,101,3,True
+did it roll across the table?,the,0,101,3,False
+did it roll across the table?,table,0,101,3,False
+yeah it went under the ramp and inside the tunnel.,yeah,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,it,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,went,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,under,1,101,4,True
+yeah it went under the ramp and inside the tunnel.,the,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,ramp,0,101,4,True
+yeah it went under the ramp and inside the tunnel.,and,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,inside,1,101,4,True
+yeah it went under the ramp and inside the tunnel.,the,0,101,4,False
+yeah it went under the ramp and inside the tunnel.,tunnel,1,101,4,True
+where did you find the small piece?,where,1,104,1,True
+where did you find the small piece?,did,0,104,1,False
+where did you find the small piece?,you,0,104,1,False
+where did you find the small piece?,find,0,104,1,False
+where did you find the small piece?,the,0,104,1,False
+where did you find the small piece?,small,1,104,1,True
+where did you find the small piece?,piece,1,104,1,True
+it was near the corner over there.,it,0,104,2,False
+it was near the corner over there.,was,0,104,2,False
+it was near the corner over there.,near,1,104,2,True
+it was near the corner over there.,the,0,104,2,False
+it was near the corner over there.,corner,1,104,2,True
+it was near the corner over there.,over,1,104,2,True
+it was near the corner over there.,there,1,104,2,True
+okay put it down for now.,okay,0,104,3,False
+okay put it down for now.,put,0,104,3,True
+okay put it down for now.,it,0,104,3,False
+okay put it down for now.,down,0,104,3,True
+okay put it down for now.,for,0,104,3,False
+okay put it down for now.,now,0,104,3,False
+I think it is done.,i,0,104,4,False
+I think it is done.,think,0,104,4,False
+I think it is done.,it,0,104,4,False
+I think it is done.,is,0,104,4,False
+I think it is done.,done,0,104,4,False
+tell me how the tower stands up.,tell,0,105,1,False
+tell me how the tower stands up.,me,0,105,1,False
+tell me how the tower stands up.,how,0,105,1,False
+tell me how the tower stands up.,the,0,105,1,False
+tell me how the tower stands up.,tower,0,105,1,False
+tell me how the tower stands up.,stands,0,105,1,False
+tell me how the tower stands up.,up,1,105,1,True
+it is tall and straight.,it,0,105,2,False
+it is tall and straight.,is,0,105,2,False
+it is tall and straight.,tall,1,105,2,True
+it is tall and straight.,and,0,105,2,False
+it is tall and straight.,straight,1,105,2,True
+is the base wide enough?,is,0,105,3,False
+is the base wide enough?,the,0,105,3,False
+is the base wide enough?,base,1,105,3,True
+is the base wide enough?,wide,1,105,3,True
+is the base wide enough?,enough,0,105,3,True
+we can build it bigger.,we,0,105,4,False
+we can build it bigger.,can,0,105,4,False
+we can build it bigger.,build,1,105,4,True
+we can build it bigger.,it,0,105,4,False
+we can build it bigger.,bigger,1,105,4,True
+the ball rolled between the two cups.,the,0,106,1,False
+the ball rolled between the two cups.,ball,0,106,1,False
+the ball rolled between the two cups.,rolled,0,106,1,True
+the ball rolled between the two cups.,between,1,106,1,True
+the ball rolled between the two cups.,the,0,106,1,False
+the ball rolled between the two cups.,two,0,106,1,False
+the ball rolled between the two cups.,cups,0,106,1,False
+did it spin around?,did,0,106,2,False
+did it spin around?,it,0,106,2,False
+did it spin around?,spin,1,106,2,True
+did it spin around?,around,1,106,2,True
+no it stayed in place.,no,0,106,3,False
+no it stayed in place.,it,0,106,3,False
+no it stayed in place.,stayed,0,106,3,True
+no it stayed in place.,in,1,106,3,True
+no it stayed in place.,place,1,106,3,True
+good job today.,good,0,106,4,True
+good job today.,job,0,106,4,False
+good job today.,today,0,106,4,False
+I see you later right.,i,0,108,1,False
+I see you later right.,see,0,108,1,False
+I see you later right.,you,0,108,1,False
+I see you later right.,later,0,108,1,False
+I see you later right.,right,0,108,1,True
+push the cart forward please.,push,1,108,2,True
+push the cart forward please.,the,0,108,2,False
+push the cart forward please.,cart,0,108,2,False
+push the cart forward please.,forward,1,108,2,True
+push the cart forward please.,please,0,108,2,False
+it fell off the edge.,it,0,108,3,False
+it fell off the edge.,fell,0,108,3,False
+it fell off the edge.,off,1,108,3,True
+it fell off the edge.,the,0,108,3,False
+it fell off the edge.,edge,1,108,3,True
+let us pick it up.,let,0,108,4,False
+let us pick it up.,us,0,108,4,False
+let us pick it up.,pick,0,108,4,False
+let us pick it up.,it,0,108,4,False
+let us pick it up.,up,0,108,4,True
+the box is open on the side.,the,0,110,1,False
+the box is open on the side.,box,0,110,1,False
+the box is open on the side.,is,0,110,1,False
+the box is open on the side.,open,1,110,1,True
+the box is open on the side.,on,1,110,1,True
+the box is open on the side.,the,0,110,1,False
+the box is open on the side.,side,1,110,1,True
+close it and turn it over.,close,0,110,2,True
+close it and turn it over.,it,0,110,2,False
+close it and turn it over.,and,0,110,2,False
+close it and turn it over.,turn,1,110,2,True
+close it and turn it over.,it,0,110,2,False
+close it and turn it over.,over,1,110,2,True
+it fits inside perfectly.,it,0,110,3,False
+it fits inside perfectly.,fits,0,110,3,False
+it fits inside perfectly.,inside,1,110,3,True
+it fits inside perfectly.,perfectly,0,110,3,False
+we are all finished.,we,0,110,4,False
+we are all finished.,are,0,110,4,False
+we are all finished.,all,0,110,4,True
+we are all finished.,finished,0,110,4,False
+the ball rolled between the two cups.,roll,1,106,1,True
+no it stayed in place.,stay,0,106,3,True
+it fits inside perfectly.,fit,1,110,3,True
