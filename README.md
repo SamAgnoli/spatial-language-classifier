@@ -2,7 +2,7 @@
 
 Detect **spatial language at the word level**: given an utterance and a target word, the
 model decides whether that word is being used **spatially** (`1`) or **not** (`0`) *in
-context*. At inference it scores every dictionary-candidate word in an utterance, so you get
+utternace context*. At inference it scores every dictionary-candidate word in an utterance, so you get
 per-word spatial labels with a calibrated confidence for each.
 
 **Model:** [`SamAgnoli/deberta-v3-base-spatial-language-detection`](https://huggingface.co/SamAgnoli/deberta-v3-base-spatial-language-detection)
