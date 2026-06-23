@@ -31,7 +31,7 @@ per-word spatial labels with a calibrated confidence for each.
 ### Train or evaluate
 1. Open `02_train_and_analyze.ipynb`.
 2. Keep `train_from_scratch = False` to evaluate the **published** model, or set it `True` to
-   fine-tune your own (GPU recommended).
+   fine-tune your own (Google Collab's T4 GPU recommended).
 3. It reads `data/example/{train,val,test}.csv` by default — swap in your own data in the
    same schema.
 
