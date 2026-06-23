@@ -48,10 +48,10 @@ The CSV format the notebooks expect is documented in
 
 ## How it works
 
-1. **Dictionary gate.** A spatial wordlist (`data/spatial dictionary.txt`, parsed into exact +
+1. **Dictionary gate.** A spatial wordlist from Cannon et al., 2007 and extended by Zhou et al., (in prep.) (`data/spatial dictionary.txt`, parsed into exact +
    prefix matchers in `data/spatial_matcher.json`) selects candidate words. Non-candidates are
-   non-spatial by definition and never sent to the model.
-2. **Contextual classification.** Each candidate word is scored by DeBERTa-v3 *with its
+   non-spatial by definition.
+2. **Contextual classification.** Each candidate word is scored by an already fine-tuned DeBERTa-v3 (using coding data from Zhou et al., in prep.) *with its
    utterance* as context.
 3. **Calibrated confidence.** Raw probabilities are over-confident, so a temperature
    (`data/calibration.json`, `T = 1.816`) rescales them — the hard 0/1 decision is unchanged,
@@ -66,7 +66,7 @@ tokenizer is loaded from `tokenizer.json` (fast), so no SentencePiece build is r
 
 The data shipped here is **synthetic** — fabricated utterances that only demonstrate the
 format. The real parent–child research transcripts the model was trained on are **not**
-included. Treat any human-subjects data you bring accordingly.
+included, but we may be able to provide them deidentified upon request.
 
 ## Citation
 
