@@ -22,8 +22,3 @@ that the model scores in the context of its utterance. This is the output of the
 - **Train or evaluate (notebook `02_train_and_analyze`)** — you need the full schema above,
   split into `train.csv` / `val.csv` / `test.csv`. Produce these with your own equivalent of
   step 1 (group your rows by `session_id` so the same speaker never spans splits).
-
-## Note
-
-The files in this folder are **synthetic** — generated from fabricated utterances purely to
-demonstrate the format and let the notebooks run end-to-end. They are not real research data.
