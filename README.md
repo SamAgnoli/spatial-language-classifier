@@ -78,5 +78,5 @@ If you use this model or pipeline, please contact Sam Agnoli (SamAgnoli[at]u.nor
 
 ## License
 
-- **Code** (notebooks, scripts): [MIT](LICENSE).
+- **Code** (notebooks, scripts): [MIT](LICENSE). -> FIX to CC BY 4.0
 - **Data** (`data/`, including the example datasets and spatial dictionary): [CC BY 4.0](data/LICENSE) — free to reuse, including commercially, but you **must give credit** (see the attribution note in [`data/LICENSE`](data/LICENSE)).
