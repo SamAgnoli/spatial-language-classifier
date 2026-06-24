@@ -11,7 +11,7 @@ that the model scores in the context of its utterance. This is the output of the
 | `spatial_or_not` | int (0/1) | train | Label: **1 = spatial**, **0 = not spatial**. Internally renamed to `labels`. |
 | `session_id` | string | train | Speaker/session group id. Used for the leakage-free group split — all rows of a session stay in one split. |
 | `line` | int | train | Line number within the session (bookkeeping / joins). |
-| `is_candidate` | bool | train | Whether `coded_word` matched the spatial dictionary. Lets evaluation separate "dictionary candidates only" (the meaningful view) from "every word". |
+| `is_candidate` | bool | train *(auto-filled if absent)* | Whether `coded_word` matched the spatial dictionary. Lets evaluation separate "dictionary candidates only" (the meaningful view) from "every word". **You can omit this column** — notebook 02 computes it from `coded_word` with the bundled matcher when it's missing (e.g., fine-tuning on your own new data). |
 
 ## Two ways to bring your own data
 
