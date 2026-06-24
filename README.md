@@ -69,7 +69,7 @@ builds the base `microsoft/deberta-v3-base` tokenizer, which needs `sentencepiec
 ## Data & privacy
 
 The example data in `data/example/` is **deidentified** data from Zhou et al. (in prep.).
-Please cite the source if you use it, and handle it as you would any human-subjects data.
+Please cite the source if you use it.
 <!-- TODO: add your consent/IRB statement and a dataset-access contact here if appropriate. -->
 
 ## Citation
