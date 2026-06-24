@@ -21,7 +21,7 @@ per-word spatial labels with a calibrated confidence for each.
 > Replace `SamAgnoli/spatial-language-classifier` in the badge URLs if you fork this under a
 > different repo name.
 
-## Quickstart
+## Quickstart [Make sure to set your runtime type to T4 in Google Colab before running either quickstart]
 
 ### Just classify your text (no training)
 1. Open `03_quickstart_apply.ipynb` (Colab badge above, or locally).
