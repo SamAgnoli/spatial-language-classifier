@@ -38,7 +38,7 @@ per-word spatial labels with a calibrated confidence for each.
 ## Bring your own data
 
 The CSV format the notebooks expect is documented in
-[`data/example/SCHEMA.md`](data/example/SCHEMA.md), with a runnable synthetic example in
+[`data/example/SCHEMA.md`](data/example/SCHEMA.md), with a runnable example from Zhou et al., (in prep.) in
 [`data/example/`](data/example/). In short:
 
 - **Applying the model** → you only need an `utterance` column.
