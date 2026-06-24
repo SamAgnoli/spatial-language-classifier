@@ -2,7 +2,7 @@
 
 Detect **spatial language at the word level**: given an utterance and a target word, the
 model decides whether that word is being used **spatially** (`1`) or **not** (`0`) *in
-utternace context*. At inference it scores every dictionary-candidate word in an utterance, so you get
+utterance context*. At inference it scores every dictionary-candidate word in an utterance, so you get
 per-word spatial labels with a calibrated confidence for each.
 
 **Model:** [`SamAgnoli/deberta-v3-base-spatial-language-detection`](https://huggingface.co/SamAgnoli/deberta-v3-base-spatial-language-detection)
@@ -21,7 +21,7 @@ per-word spatial labels with a calibrated confidence for each.
 > Replace `SamAgnoli/spatial-language-classifier` in the badge URLs if you fork this under a
 > different repo name.
 
-## Quickstart [Make sure to set your runtime type to T4 in Google Colab before running either quickstart]
+## Quickstart
 
 ### Just classify your text (no training)
 1. Open `03_quickstart_apply.ipynb` (Colab badge above, or locally).
@@ -31,7 +31,7 @@ per-word spatial labels with a calibrated confidence for each.
 ### Train or evaluate
 1. Open `02_train_and_analyze.ipynb`.
 2. Keep `train_from_scratch = False` to evaluate the **published** model, or set it `True` to
-   fine-tune your own (Google Collab's T4 GPU recommended).
+   fine-tune your own (Google Colab's T4 GPU recommended).
 3. It reads `data/example/{train,val,test}.csv` by default — swap in your own data in the
    same schema.
 
@@ -48,25 +48,29 @@ The CSV format the notebooks expect is documented in
 
 ## How it works
 
-1. **Dictionary gate.** A spatial wordlist from Cannon et al., 2007 and extended by Zhou et al., (in prep.) (`data/spatial dictionary.txt`, parsed into exact +
-   prefix matchers in `data/spatial_matcher.json`) selects candidate words. Non-candidates are
-   non-spatial by definition.
-2. **Contextual classification.** Each candidate word is scored by an already fine-tuned DeBERTa-v3 (using coding data from Zhou et al., in prep.) *with its
-   utterance* as context.
+1. **Dictionary gate.** A spatial wordlist from Cannon et al., 2007 and extended by Zhou et al., (in prep.)
+   (`data/spatial dictionary.txt`, parsed into exact + prefix matchers in `data/spatial_matcher.json`)
+   flags candidate words. **At inference** (`classify_utterance` / notebook 03), only candidates are
+   scored — non-candidates are taken as non-spatial and skipped, never reaching the model. *(During
+   training and evaluation, every word is still passed through the model, non-candidates labeled `0`;
+   that's why the eval reports both a "candidates-only" headline view and an "overall (every word)" view.)*
+2. **Contextual classification.** Each candidate word is scored by an already fine-tuned DeBERTa-v3
+   (using coding data from Zhou et al., in prep.) *with its utterance* as context.
 3. **Calibrated confidence.** Raw probabilities are over-confident, so a temperature
    (`data/calibration.json`, `T = 1.816`) rescales them — the hard 0/1 decision is unchanged,
    but the confidence can be read literally.
 
 ## Requirements
 
-See [`requirements.txt`](requirements.txt). Colab already has most of these. The DeBERTa-v3
-tokenizer is loaded from `tokenizer.json` (fast), so no SentencePiece build is required.
+See [`requirements.txt`](requirements.txt). Colab already has most of these. Notebook 02
+builds the base `microsoft/deberta-v3-base` tokenizer, which needs `sentencepiece` +
+`protobuf`; notebook 03 loads the published model's fast `tokenizer.json` and needs neither.
 
 ## Data & privacy
 
-The data shipped here is **synthetic** — fabricated utterances that only demonstrate the
-format. The real parent–child research transcripts the model was trained on are **not**
-included, but we may be able to provide them deidentified upon request.
+The example data in `data/example/` is **deidentified** data from Zhou et al. (in prep.).
+Please cite the source if you use it, and handle it as you would any human-subjects data.
+<!-- TODO: add your consent/IRB statement and a dataset-access contact here if appropriate. -->
 
 ## Citation
 
