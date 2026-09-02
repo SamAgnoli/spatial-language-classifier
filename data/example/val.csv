@@ -15,13 +15,13 @@ okay when we were in tinkering lab H_name built what'd you build H_name?,name,0,
 okay when we were in tinkering lab H_name built what'd you build H_name?,built,0,139,15,False
 okay when we were in tinkering lab H_name built what'd you build H_name?,what'd,0,139,15,False
 okay when we were in tinkering lab H_name built what'd you build H_name?,you,0,139,15,False
-okay when we were in tinkering lab H_name built what'd you build H_name?,build,0,139,15,True
+okay when we were in tinkering lab H_name built what'd you build H_name?,build,0,139,15,False
 okay when we were in tinkering lab H_name built what'd you build H_name?,h,0,139,15,False
 okay when we were in tinkering lab H_name built what'd you build H_name?,name,0,139,15,False
 I built a slide.,i,0,139,17,False
 I built a slide.,built,0,139,17,False
 I built a slide.,a,0,139,17,False
-I built a slide.,slide,0,139,17,True
+I built a slide.,slide,0,139,17,False
 okay and L_name what did you build?,okay,0,139,18,False
 okay and L_name what did you build?,and,0,139,18,False
 okay and L_name what did you build?,l,0,139,18,False
@@ -29,9 +29,9 @@ okay and L_name what did you build?,name,0,139,18,False
 okay and L_name what did you build?,what,0,139,18,False
 okay and L_name what did you build?,did,0,139,18,False
 okay and L_name what did you build?,you,0,139,18,False
-okay and L_name what did you build?,build,0,139,18,True
+okay and L_name what did you build?,build,0,139,18,False
 I build a teeter totter!,i,0,139,19,False
-I build a teeter totter!,build,0,139,19,True
+I build a teeter totter!,build,0,139,19,False
 I build a teeter totter!,a,0,139,19,False
 I build a teeter totter!,teeter,0,139,19,False
 I build a teeter totter!,totter,0,139,19,False
@@ -150,7 +150,7 @@ what do you think you're gonna do with them when we get home?,do,0,139,55,False
 what do you think you're gonna do with them when we get home?,you,0,139,55,False
 what do you think you're gonna do with them when we get home?,think,0,139,55,False
 what do you think you're gonna do with them when we get home?,you're,0,139,55,False
-what do you think you're gonna do with them when we get home?,gonna,0,139,55,True
+what do you think you're gonna do with them when we get home?,gonna,0,139,55,False
 what do you think you're gonna do with them when we get home?,do,0,139,55,False
 what do you think you're gonna do with them when we get home?,with,0,139,55,True
 what do you think you're gonna do with them when we get home?,them,0,139,55,False
@@ -159,7 +159,7 @@ what do you think you're gonna do with them when we get home?,we,0,139,55,False
 what do you think you're gonna do with them when we get home?,get,0,139,55,False
 what do you think you're gonna do with them when we get home?,home,0,139,55,False
 I'm gonna .,i'm,0,139,56,False
-I'm gonna .,gonna,0,139,56,True
+I'm gonna .,gonna,0,139,56,False
 um I'm .,um,0,139,57,False
 um I'm .,i'm,0,139,57,False
 let my animals play on them.,let,0,139,58,False
@@ -172,8 +172,8 @@ animals okay.,animals,0,139,59,False
 animals okay.,okay,0,139,59,False
 and I'm gonna put them in my room to get to keep it .,and,0,139,60,False
 and I'm gonna put them in my room to get to keep it .,i'm,0,139,60,False
-and I'm gonna put them in my room to get to keep it .,gonna,0,139,60,True
-and I'm gonna put them in my room to get to keep it .,put,0,139,60,True
+and I'm gonna put them in my room to get to keep it .,gonna,0,139,60,False
+and I'm gonna put them in my room to get to keep it .,put,0,139,60,False
 and I'm gonna put them in my room to get to keep it .,them,0,139,60,False
 and I'm gonna put them in my room to get to keep it .,in,1,139,60,True
 and I'm gonna put them in my room to get to keep it .,my,0,139,60,False
@@ -210,7 +210,7 @@ I took tiny paper cups and put um pipe cleaners.,tiny,1,246,17,True
 I took tiny paper cups and put um pipe cleaners.,paper,0,246,17,False
 I took tiny paper cups and put um pipe cleaners.,cups,0,246,17,False
 I took tiny paper cups and put um pipe cleaners.,and,0,246,17,False
-I took tiny paper cups and put um pipe cleaners.,put,0,246,17,True
+I took tiny paper cups and put um pipe cleaners.,put,0,246,17,False
 I took tiny paper cups and put um pipe cleaners.,um,0,246,17,False
 I took tiny paper cups and put um pipe cleaners.,pipe,0,246,17,False
 I took tiny paper cups and put um pipe cleaners.,cleaners,0,246,17,False
@@ -218,7 +218,7 @@ and I glued I put the pipe cleaners onto the tiny cups.,and,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,i,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,glued,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,i,0,246,18,False
-and I glued I put the pipe cleaners onto the tiny cups.,put,0,246,18,True
+and I glued I put the pipe cleaners onto the tiny cups.,put,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,the,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,pipe,0,246,18,False
 and I glued I put the pipe cleaners onto the tiny cups.,cleaners,0,246,18,False
@@ -229,7 +229,7 @@ and I glued I put the pipe cleaners onto the tiny cups.,cups,0,246,18,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,and,0,246,19,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,then,0,246,19,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,i,0,246,19,False
-and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,put,0,246,19,True
+and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,put,0,246,19,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,the,0,246,19,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,pipe,0,246,19,False
 and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,cleaners,0,246,19,False
@@ -244,9 +244,9 @@ and then I put the pipe cleaners and the tiny cups onto a cardboard circle.,circ
 and then I put it put it onto a wood thing.,and,0,246,22,False
 and then I put it put it onto a wood thing.,then,0,246,22,False
 and then I put it put it onto a wood thing.,i,0,246,22,False
-and then I put it put it onto a wood thing.,put,0,246,22,True
+and then I put it put it onto a wood thing.,put,0,246,22,False
 and then I put it put it onto a wood thing.,it,0,246,22,False
-and then I put it put it onto a wood thing.,put,0,246,22,True
+and then I put it put it onto a wood thing.,put,0,246,22,False
 and then I put it put it onto a wood thing.,it,0,246,22,False
 and then I put it put it onto a wood thing.,onto,1,246,22,True
 and then I put it put it onto a wood thing.,a,0,246,22,False
@@ -264,7 +264,7 @@ and I made a ferris wheel.,made,0,246,24,False
 and I made a ferris wheel.,a,0,246,24,False
 and I made a ferris wheel.,ferris,0,246,24,False
 and I made a ferris wheel.,wheel,0,246,24,False
-good job!,good,0,246,25,True
+good job!,good,0,246,25,False
 good job!,job,0,246,25,False
 awesome!,awesome,0,246,26,False
 so.,so,0,113,13,False
@@ -294,7 +294,7 @@ and you used a power drill for the first time you screwed them in.,them,0,113,16
 and you used a power drill for the first time you screwed them in.,in,1,113,16,True
 yeah.,yeah,0,113,17,False
 and put the tires maybe in the wrong place and you pushed it down.,and,0,113,18,False
-and put the tires maybe in the wrong place and you pushed it down.,put,0,113,18,True
+and put the tires maybe in the wrong place and you pushed it down.,put,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,the,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,tires,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,maybe,0,113,18,False
@@ -304,21 +304,21 @@ and put the tires maybe in the wrong place and you pushed it down.,wrong,0,113,1
 and put the tires maybe in the wrong place and you pushed it down.,place,1,113,18,True
 and put the tires maybe in the wrong place and you pushed it down.,and,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,you,0,113,18,False
-and put the tires maybe in the wrong place and you pushed it down.,pushed,0,113,18,True
+and put the tires maybe in the wrong place and you pushed it down.,pushed,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,it,0,113,18,False
 and put the tires maybe in the wrong place and you pushed it down.,down,1,113,18,True
 it would sometimes spin or not move.,it,0,113,19,False
 it would sometimes spin or not move.,would,0,113,19,False
 it would sometimes spin or not move.,sometimes,0,113,19,False
-it would sometimes spin or not move.,spin,0,113,19,True
+it would sometimes spin or not move.,spin,0,113,19,False
 it would sometimes spin or not move.,or,0,113,19,False
 it would sometimes spin or not move.,not,0,113,19,False
-it would sometimes spin or not move.,move,0,113,19,True
+it would sometimes spin or not move.,move,0,113,19,False
 oh yeah you helped put the uh bucket on.,oh,0,113,20,False
 oh yeah you helped put the uh bucket on.,yeah,0,113,20,False
 oh yeah you helped put the uh bucket on.,you,0,113,20,False
 oh yeah you helped put the uh bucket on.,helped,0,113,20,False
-oh yeah you helped put the uh bucket on.,put,0,113,20,True
+oh yeah you helped put the uh bucket on.,put,0,113,20,False
 oh yeah you helped put the uh bucket on.,the,0,113,20,False
 oh yeah you helped put the uh bucket on.,uh,0,113,20,False
 oh yeah you helped put the uh bucket on.,bucket,0,113,20,False
@@ -365,7 +365,7 @@ parachutes and when we were done we were about to go and uh.,we,0,113,29,False
 parachutes and when we were done we were about to go and uh.,were,0,113,29,False
 parachutes and when we were done we were about to go and uh.,about,0,113,29,True
 parachutes and when we were done we were about to go and uh.,to,0,113,29,True
-parachutes and when we were done we were about to go and uh.,go,0,113,29,True
+parachutes and when we were done we were about to go and uh.,go,0,113,29,False
 parachutes and when we were done we were about to go and uh.,and,0,113,29,False
 parachutes and when we were done we were about to go and uh.,uh,0,113,29,False
 you helped with the questionnaire.,you,0,113,30,False
@@ -380,11 +380,11 @@ I helped with questions and then I got this bag I got this bag.,questions,0,113,
 I helped with questions and then I got this bag I got this bag.,and,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,then,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,i,0,113,31,False
-I helped with questions and then I got this bag I got this bag.,got,0,113,31,True
+I helped with questions and then I got this bag I got this bag.,got,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,this,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,bag,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,i,0,113,31,False
-I helped with questions and then I got this bag I got this bag.,got,0,113,31,True
+I helped with questions and then I got this bag I got this bag.,got,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,this,0,113,31,False
 I helped with questions and then I got this bag I got this bag.,bag,0,113,31,False
 to carry your car home in.,to,0,113,32,True
@@ -406,7 +406,7 @@ oh no it fell apart.,fell,0,113,35,False
 oh no it fell apart.,apart,1,113,35,True
 the monster got out of the bucket okay.,the,0,113,36,False
 the monster got out of the bucket okay.,monster,0,113,36,False
-the monster got out of the bucket okay.,got,0,113,36,True
+the monster got out of the bucket okay.,got,0,113,36,False
 the monster got out of the bucket okay.,out,1,113,36,True
 the monster got out of the bucket okay.,of,0,113,36,False
 the monster got out of the bucket okay.,the,0,113,36,False
@@ -441,12 +441,12 @@ the wheels didn't really move that much on the ramp and then we taped the front 
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,wheels,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,didn't,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,really,0,113,40,False
-the wheels didn't really move that much on the ramp and then we taped the front and the back.,move,0,113,40,True
+the wheels didn't really move that much on the ramp and then we taped the front and the back.,move,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,that,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,much,1,113,40,True
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,on,1,113,40,True
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,the,0,113,40,False
-the wheels didn't really move that much on the ramp and then we taped the front and the back.,ramp,0,113,40,True
+the wheels didn't really move that much on the ramp and then we taped the front and the back.,ramp,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,and,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,then,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,we,0,113,40,False
@@ -457,7 +457,7 @@ the wheels didn't really move that much on the ramp and then we taped the front 
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,the,0,113,40,False
 the wheels didn't really move that much on the ramp and then we taped the front and the back.,back,1,113,40,True
 the end.,the,0,113,42,False
-the end.,end,0,113,42,True
+the end.,end,0,113,42,False
 well I made a little racecar so the monster could go down.,well,0,129,14,False
 well I made a little racecar so the monster could go down.,i,0,129,14,False
 well I made a little racecar so the monster could go down.,made,0,129,14,False
@@ -468,7 +468,7 @@ well I made a little racecar so the monster could go down.,so,0,129,14,False
 well I made a little racecar so the monster could go down.,the,0,129,14,False
 well I made a little racecar so the monster could go down.,monster,0,129,14,False
 well I made a little racecar so the monster could go down.,could,0,129,14,False
-well I made a little racecar so the monster could go down.,go,0,129,14,True
+well I made a little racecar so the monster could go down.,go,0,129,14,False
 well I made a little racecar so the monster could go down.,down,1,129,14,True
 my monster was green and his name is Freddy!,my,0,129,15,False
 my monster was green and his name is Freddy!,monster,0,129,15,False
@@ -538,7 +538,7 @@ uh huh.,huh,0,129,27,False
 so it wouldn't go and then when we tried it again and it didn't work.,so,0,129,28,False
 so it wouldn't go and then when we tried it again and it didn't work.,it,0,129,28,False
 so it wouldn't go and then when we tried it again and it didn't work.,wouldn't,0,129,28,False
-so it wouldn't go and then when we tried it again and it didn't work.,go,0,129,28,True
+so it wouldn't go and then when we tried it again and it didn't work.,go,0,129,28,False
 so it wouldn't go and then when we tried it again and it didn't work.,and,0,129,28,False
 so it wouldn't go and then when we tried it again and it didn't work.,then,0,129,28,False
 so it wouldn't go and then when we tried it again and it didn't work.,when,0,129,28,False
@@ -567,13 +567,13 @@ and we and I got all the way to the end of the box.,and,0,129,31,False
 and we and I got all the way to the end of the box.,we,0,129,31,False
 and we and I got all the way to the end of the box.,and,0,129,31,False
 and we and I got all the way to the end of the box.,i,0,129,31,False
-and we and I got all the way to the end of the box.,got,0,129,31,True
+and we and I got all the way to the end of the box.,got,0,129,31,False
 and we and I got all the way to the end of the box.,all,1,129,31,True
 and we and I got all the way to the end of the box.,the,0,129,31,False
 and we and I got all the way to the end of the box.,way,0,129,31,True
 and we and I got all the way to the end of the box.,to,1,129,31,True
 and we and I got all the way to the end of the box.,the,0,129,31,False
-and we and I got all the way to the end of the box.,end,0,129,31,True
+and we and I got all the way to the end of the box.,end,0,129,31,False
 and we and I got all the way to the end of the box.,of,0,129,31,False
 and we and I got all the way to the end of the box.,the,0,129,31,False
 and we and I got all the way to the end of the box.,box,0,129,31,False
@@ -629,7 +629,7 @@ so we did the well we did the we did a fan thing where like it would like try to
 so we did the well we did the we did a fan thing where like it would like try to move forward.,like,0,13,14,False
 so we did the well we did the we did a fan thing where like it would like try to move forward.,try,0,13,14,False
 so we did the well we did the we did a fan thing where like it would like try to move forward.,to,0,13,14,True
-so we did the well we did the we did a fan thing where like it would like try to move forward.,move,0,13,14,True
+so we did the well we did the we did a fan thing where like it would like try to move forward.,move,0,13,14,False
 so we did the well we did the we did a fan thing where like it would like try to move forward.,forward,1,13,14,True
 what was uh what was the thing that we were supposed to do though?,what,0,13,16,False
 what was uh what was the thing that we were supposed to do though?,was,0,13,16,False
@@ -660,11 +660,11 @@ what was the objective?,objective,0,13,19,False
 ", so we were trying to make it like fly like in this tube thing.",make,0,13,20,False
 ", so we were trying to make it like fly like in this tube thing.",it,0,13,20,False
 ", so we were trying to make it like fly like in this tube thing.",like,0,13,20,False
-", so we were trying to make it like fly like in this tube thing.",fly,0,13,20,True
+", so we were trying to make it like fly like in this tube thing.",fly,0,13,20,False
 ", so we were trying to make it like fly like in this tube thing.",like,0,13,20,False
 ", so we were trying to make it like fly like in this tube thing.",in,1,13,20,True
 ", so we were trying to make it like fly like in this tube thing.",this,0,13,20,False
-", so we were trying to make it like fly like in this tube thing.",tube,0,13,20,True
+", so we were trying to make it like fly like in this tube thing.",tube,0,13,20,False
 ", so we were trying to make it like fly like in this tube thing.",thing,0,13,20,False
 mhmm.,mhmm,0,13,21,False
 I don't know if you can see it xxx but it was pretty fun.,i,0,13,22,False
@@ -704,7 +704,7 @@ yeah it was three feet and we we did a pretty good job on it right?,we,0,13,25,F
 yeah it was three feet and we we did a pretty good job on it right?,did,0,13,25,False
 yeah it was three feet and we we did a pretty good job on it right?,a,0,13,25,False
 yeah it was three feet and we we did a pretty good job on it right?,pretty,0,13,25,False
-yeah it was three feet and we we did a pretty good job on it right?,good,0,13,25,True
+yeah it was three feet and we we did a pretty good job on it right?,good,0,13,25,False
 yeah it was three feet and we we did a pretty good job on it right?,job,0,13,25,False
 yeah it was three feet and we we did a pretty good job on it right?,on,0,13,25,True
 yeah it was three feet and we we did a pretty good job on it right?,it,0,13,25,False
@@ -722,13 +722,13 @@ it it it but it went very slowly.,went,0,13,28,False
 it it it but it went very slowly.,very,0,13,28,False
 it it it but it went very slowly.,slowly,0,13,28,False
 it moved the monster that was the goal.,it,0,13,29,False
-it moved the monster that was the goal.,moved,0,13,29,True
+it moved the monster that was the goal.,moved,0,13,29,False
 it moved the monster that was the goal.,the,0,13,29,False
 it moved the monster that was the goal.,monster,0,13,29,False
 it moved the monster that was the goal.,that,0,13,29,False
 it moved the monster that was the goal.,was,0,13,29,False
 it moved the monster that was the goal.,the,0,13,29,False
-it moved the monster that was the goal.,goal,0,13,29,True
+it moved the monster that was the goal.,goal,0,13,29,False
 yeah but it was still very fun.,yeah,0,13,30,False
 yeah but it was still very fun.,but,0,13,30,False
 yeah but it was still very fun.,it,0,13,30,False
@@ -811,7 +811,7 @@ yes.,yes,0,139,23,False
 you did a good invention.,you,0,139,24,False
 you did a good invention.,did,0,139,24,False
 you did a good invention.,a,0,139,24,False
-you did a good invention.,good,0,139,24,True
+you did a good invention.,good,0,139,24,False
 you did a good invention.,invention,0,139,24,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,i,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,i,0,145,16,False
@@ -820,7 +820,7 @@ I I made a parasail and I put it in the air con air conditioning and it could fl
 I I made a parasail and I put it in the air con air conditioning and it could fly.,parasail,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,and,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,i,0,145,16,False
-I I made a parasail and I put it in the air con air conditioning and it could fly.,put,0,145,16,True
+I I made a parasail and I put it in the air con air conditioning and it could fly.,put,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,it,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,in,1,145,16,True
 I I made a parasail and I put it in the air con air conditioning and it could fly.,the,0,145,16,False
@@ -831,7 +831,7 @@ I I made a parasail and I put it in the air con air conditioning and it could fl
 I I made a parasail and I put it in the air con air conditioning and it could fly.,and,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,it,0,145,16,False
 I I made a parasail and I put it in the air con air conditioning and it could fly.,could,0,145,16,False
-I I made a parasail and I put it in the air con air conditioning and it could fly.,fly,0,145,16,True
+I I made a parasail and I put it in the air con air conditioning and it could fly.,fly,0,145,16,False
 and the and the other and the other two got a big air.,and,0,145,18,False
 and the and the other and the other two got a big air.,the,0,145,18,False
 and the and the other and the other two got a big air.,and,0,145,18,False
@@ -841,7 +841,7 @@ and the and the other and the other two got a big air.,and,0,145,18,False
 and the and the other and the other two got a big air.,the,0,145,18,False
 and the and the other and the other two got a big air.,other,0,145,18,False
 and the and the other and the other two got a big air.,two,0,145,18,False
-and the and the other and the other two got a big air.,got,0,145,18,True
+and the and the other and the other two got a big air.,got,0,145,18,False
 and the and the other and the other two got a big air.,a,0,145,18,False
 and the and the other and the other two got a big air.,big,1,145,18,True
 and the and the other and the other two got a big air.,air,0,145,18,True
@@ -905,7 +905,7 @@ what's in your hand?,your,0,145,29,False
 what's in your hand?,hand,0,145,29,False
 um a flying thing .,um,0,145,30,False
 um a flying thing .,a,0,145,30,False
-um a flying thing .,flying,0,145,30,True
+um a flying thing .,flying,0,145,30,False
 um a flying thing .,thing,0,145,30,False
 what's in your hand?,what's,0,145,31,False
 what's in your hand?,in,1,145,31,True
@@ -1021,8 +1021,8 @@ what was when we walked in what did they say your job today is to?,job,0,19,17,F
 what was when we walked in what did they say your job today is to?,today,0,19,17,False
 what was when we walked in what did they say your job today is to?,is,0,19,17,False
 what was when we walked in what did they say your job today is to?,to,0,19,17,True
-build.,build,0,19,19,True
-build what?,build,0,19,20,True
+build.,build,0,19,19,False
+build what?,build,0,19,20,False
 build what?,what,0,19,20,False
 a monster creation.,a,0,19,21,False
 a monster creation.,monster,0,19,21,False
@@ -1042,11 +1042,11 @@ a monster creation and what did that monster creation need to do?,do,0,19,22,Fal
 um make um go ...,um,0,19,23,False
 um make um go ...,make,0,19,23,False
 um make um go ...,um,0,19,23,False
-um make um go ...,go,0,19,23,True
+um make um go ...,go,0,19,23,False
 make a monster move?,make,0,19,24,False
 make a monster move?,a,0,19,24,False
 make a monster move?,monster,0,19,24,False
-make a monster move?,move,0,19,24,True
+make a monster move?,move,0,19,24,False
 yeah.,yeah,0,19,25,False
 okay what was the first creation we did?,okay,0,19,26,False
 okay what was the first creation we did?,what,0,19,26,False
@@ -1118,7 +1118,7 @@ getting things to work to make the monster move.,to,0,19,39,True
 getting things to work to make the monster move.,make,0,19,39,False
 getting things to work to make the monster move.,the,0,19,39,False
 getting things to work to make the monster move.,monster,0,19,39,False
-getting things to work to make the monster move.,move,0,19,39,True
+getting things to work to make the monster move.,move,0,19,39,False
 getting our things to work?,getting,0,19,40,False
 getting our things to work?,our,0,19,40,False
 getting our things to work?,things,0,19,40,False
@@ -1363,7 +1363,7 @@ um no.,no,0,27,58,False
 okay then we'll end this next one.,okay,0,27,59,False
 okay then we'll end this next one.,then,0,27,59,False
 okay then we'll end this next one.,we'll,0,27,59,False
-okay then we'll end this next one.,end,0,27,59,True
+okay then we'll end this next one.,end,0,27,59,False
 okay then we'll end this next one.,this,0,27,59,False
 okay then we'll end this next one.,next,0,27,59,True
 okay then we'll end this next one.,one,0,27,59,False
@@ -1406,7 +1406,7 @@ so it it worked but it kinda was like it went to eight feet um.,feet,1,4,16,True
 so it it worked but it kinda was like it went to eight feet um.,um,0,4,16,False
 it didn't go to eight feet it went to like eight inches.,it,0,4,17,False
 it didn't go to eight feet it went to like eight inches.,didn't,0,4,17,False
-it didn't go to eight feet it went to like eight inches.,go,0,4,17,True
+it didn't go to eight feet it went to like eight inches.,go,0,4,17,False
 it didn't go to eight feet it went to like eight inches.,to,1,4,17,True
 it didn't go to eight feet it went to like eight inches.,eight,0,4,17,True
 it didn't go to eight feet it went to like eight inches.,feet,1,4,17,True
@@ -1419,7 +1419,7 @@ it didn't go to eight feet it went to like eight inches.,inches,1,4,17,True
 yeah.,yeah,0,4,18,False
 it didn't go very far.,it,0,4,19,False
 it didn't go very far.,didn't,0,4,19,False
-it didn't go very far.,go,0,4,19,True
+it didn't go very far.,go,0,4,19,False
 it didn't go very far.,very,0,4,19,False
 it didn't go very far.,far,1,4,19,True
 no it didn't.,no,0,4,20,False
@@ -1490,7 +1490,7 @@ and mine went over six feet and it was and my thing was over twenty feet.,feet,1
 it did not go over twenty feet it went over like twenty inches sweetie.,it,0,4,29,False
 it did not go over twenty feet it went over like twenty inches sweetie.,did,0,4,29,False
 it did not go over twenty feet it went over like twenty inches sweetie.,not,0,4,29,False
-it did not go over twenty feet it went over like twenty inches sweetie.,go,0,4,29,True
+it did not go over twenty feet it went over like twenty inches sweetie.,go,0,4,29,False
 it did not go over twenty feet it went over like twenty inches sweetie.,over,1,4,29,True
 it did not go over twenty feet it went over like twenty inches sweetie.,twenty,0,4,29,False
 it did not go over twenty feet it went over like twenty inches sweetie.,feet,1,4,29,True
@@ -1510,7 +1510,7 @@ it went up the top so that was really good.,so,0,4,31,False
 it went up the top so that was really good.,that,0,4,31,False
 it went up the top so that was really good.,was,0,4,31,False
 it went up the top so that was really good.,really,0,4,31,False
-it went up the top so that was really good.,good,0,4,31,True
+it went up the top so that was really good.,good,0,4,31,False
 yeah!,yeah,0,4,32,False
 so it's important that when we tell stories we tell the truth right?,so,0,4,33,False
 so it's important that when we tell stories we tell the truth right?,it's,0,4,33,False
@@ -1639,7 +1639,7 @@ but we did not want to build anything because it takes a long time and we were i
 but we did not want to build anything because it takes a long time and we were in a hurry.,not,0,43,19,False
 but we did not want to build anything because it takes a long time and we were in a hurry.,want,0,43,19,False
 but we did not want to build anything because it takes a long time and we were in a hurry.,to,0,43,19,True
-but we did not want to build anything because it takes a long time and we were in a hurry.,build,0,43,19,True
+but we did not want to build anything because it takes a long time and we were in a hurry.,build,0,43,19,False
 but we did not want to build anything because it takes a long time and we were in a hurry.,anything,0,43,19,False
 but we did not want to build anything because it takes a long time and we were in a hurry.,because,0,43,19,False
 but we did not want to build anything because it takes a long time and we were in a hurry.,it,0,43,19,False
@@ -1700,7 +1700,7 @@ yeah we made things that roll .,we,0,19,21,False
 yeah we made things that roll .,made,0,19,21,False
 yeah we made things that roll .,things,0,19,21,False
 yeah we made things that roll .,that,0,19,21,False
-yeah we made things that roll .,roll,0,19,21,True
+yeah we made things that roll .,roll,0,19,21,False
 I made I made a glob of glue.,i,0,19,22,False
 I made I made a glob of glue.,made,0,19,22,False
 I made I made a glob of glue.,i,0,19,22,False
@@ -1727,7 +1727,7 @@ we made like like things that roll.,like,0,19,26,False
 we made like like things that roll.,like,0,19,26,False
 we made like like things that roll.,things,0,19,26,False
 we made like like things that roll.,that,0,19,26,False
-we made like like things that roll.,roll,0,19,26,True
+we made like like things that roll.,roll,0,19,26,False
 this my car.,this,0,19,27,False
 this my car.,my,0,19,27,False
 this my car.,car,0,19,27,False
@@ -1765,7 +1765,7 @@ this is my car it's super cute and .,my,0,19,34,False
 this is my car it's super cute and .,car,0,19,34,False
 this is my car it's super cute and .,it's,0,19,34,False
 this is my car it's super cute and .,super,0,19,34,False
-this is my car it's super cute and .,cute,0,19,34,True
+this is my car it's super cute and .,cute,0,19,34,False
 this is my car it's super cute and .,and,0,19,34,False
 we spent the whole time.,we,0,19,35,False
 we spent the whole time.,spent,0,19,35,False
@@ -1803,7 +1803,7 @@ this is my xxx.,xxx,0,19,40,False
 guys guys we're going to have to start all over again because we can't talk at the same time.,guys,0,19,41,False
 guys guys we're going to have to start all over again because we can't talk at the same time.,guys,0,19,41,False
 guys guys we're going to have to start all over again because we can't talk at the same time.,we're,0,19,41,False
-guys guys we're going to have to start all over again because we can't talk at the same time.,going,0,19,41,True
+guys guys we're going to have to start all over again because we can't talk at the same time.,going,0,19,41,False
 guys guys we're going to have to start all over again because we can't talk at the same time.,to,0,19,41,True
 guys guys we're going to have to start all over again because we can't talk at the same time.,have,0,19,41,False
 guys guys we're going to have to start all over again because we can't talk at the same time.,to,0,19,41,True
@@ -1951,7 +1951,7 @@ what we did was I tried to build a car.,was,0,40,14,False
 what we did was I tried to build a car.,i,0,40,14,False
 what we did was I tried to build a car.,tried,0,40,14,False
 what we did was I tried to build a car.,to,0,40,14,True
-what we did was I tried to build a car.,build,0,40,14,True
+what we did was I tried to build a car.,build,0,40,14,False
 what we did was I tried to build a car.,a,0,40,14,False
 what we did was I tried to build a car.,car,0,40,14,False
 one of them almost worked and almost got to the end but it stinked.,one,0,40,15,False
@@ -1961,10 +1961,10 @@ one of them almost worked and almost got to the end but it stinked.,almost,0,40,
 one of them almost worked and almost got to the end but it stinked.,worked,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,and,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,almost,0,40,15,False
-one of them almost worked and almost got to the end but it stinked.,got,0,40,15,True
+one of them almost worked and almost got to the end but it stinked.,got,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,to,0,40,15,True
 one of them almost worked and almost got to the end but it stinked.,the,0,40,15,False
-one of them almost worked and almost got to the end but it stinked.,end,0,40,15,True
+one of them almost worked and almost got to the end but it stinked.,end,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,but,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,it,0,40,15,False
 one of them almost worked and almost got to the end but it stinked.,stinked,0,40,15,False
@@ -1972,16 +1972,16 @@ it actually wasn't that good.,it,0,40,16,False
 it actually wasn't that good.,actually,0,40,16,False
 it actually wasn't that good.,wasn't,0,40,16,False
 it actually wasn't that good.,that,0,40,16,False
-it actually wasn't that good.,good,0,40,16,True
+it actually wasn't that good.,good,0,40,16,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,when,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,i,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,tried,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,to,0,40,17,True
-when I tried to roll it it didn't roll but I worked hard and it almost worked.,roll,0,40,17,True
+when I tried to roll it it didn't roll but I worked hard and it almost worked.,roll,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,it,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,it,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,didn't,0,40,17,False
-when I tried to roll it it didn't roll but I worked hard and it almost worked.,roll,0,40,17,True
+when I tried to roll it it didn't roll but I worked hard and it almost worked.,roll,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,but,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,i,0,40,17,False
 when I tried to roll it it didn't roll but I worked hard and it almost worked.,worked,0,40,17,False
@@ -2010,9 +2010,9 @@ how did you make the wheels turn?,turn,1,40,20,True
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,i,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,stabilized,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,the,0,40,21,False
-I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,axle,0,40,21,True
+I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,axle,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,and,0,40,21,False
-I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,put,0,40,21,True
+I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,put,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,a,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,straw,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,over,1,40,21,True
@@ -2025,7 +2025,7 @@ I stabilized the axle and put a straw over it and then I taped a straw to the ba
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,straw,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,to,1,40,21,True
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,the,0,40,21,False
-I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,base,0,40,21,True
+I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,base,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,of,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,the,0,40,21,False
 I stabilized the axle and put a straw over it and then I taped a straw to the base of the of the car.,of,0,40,21,False
@@ -2064,7 +2064,7 @@ right so it was turning but it wasn't going straight?,turning,1,40,27,True
 right so it was turning but it wasn't going straight?,but,0,40,27,False
 right so it was turning but it wasn't going straight?,it,0,40,27,False
 right so it was turning but it wasn't going straight?,wasn't,0,40,27,False
-right so it was turning but it wasn't going straight?,going,0,40,27,True
+right so it was turning but it wasn't going straight?,going,0,40,27,False
 right so it was turning but it wasn't going straight?,straight,1,40,27,True
 yeah.,yeah,0,40,28,False
 blah blah blah blah blah.,blah,0,57,13,False
@@ -2104,10 +2104,10 @@ so we um I made um a car that can move and I put some nails on it and then I sew
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,car,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,that,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,can,0,57,19,False
-so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,move,0,57,19,True
+so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,move,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,and,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,i,0,57,19,False
-so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,put,0,57,19,True
+so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,put,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,some,0,57,19,True
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,nails,0,57,19,False
 so we um I made um a car that can move and I put some nails on it and then I sewed to make like a design here it is.,on,1,57,19,True
@@ -2174,7 +2174,7 @@ and I tried a lot of things but it didn't all work so you know life doesn't alwa
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,life,0,57,26,False
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,doesn't,0,57,26,False
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,always,0,57,26,False
-and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,go,0,57,26,True
+and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,go,0,57,26,False
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,your,0,57,26,False
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,way,0,57,26,True
 and I tried a lot of things but it didn't all work so you know life doesn't always go your way so too bad.,so,0,57,26,False
@@ -2193,7 +2193,7 @@ um a boat .,boat,0,6,16,False
 and?,and,0,6,17,False
 what'd you put inside the boat?,what'd,0,6,18,False
 what'd you put inside the boat?,you,0,6,18,False
-what'd you put inside the boat?,put,0,6,18,True
+what'd you put inside the boat?,put,0,6,18,False
 what'd you put inside the boat?,inside,1,6,18,True
 what'd you put inside the boat?,the,0,6,18,False
 what'd you put inside the boat?,boat,0,6,18,False
@@ -2202,7 +2202,7 @@ oh.,oh,0,6,20,False
 xxx.,xxx,0,6,21,False
 and the slide?,and,0,6,22,False
 and the slide?,the,0,6,22,False
-and the slide?,slide,0,6,22,True
+and the slide?,slide,0,6,22,False
 yeah.,yeah,0,6,23,False
 did you test it out?,did,0,6,25,False
 did you test it out?,you,0,6,25,False
@@ -2256,11 +2256,11 @@ uhh well we took wood and then got some wheels and got two sticks to help it sta
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,wood,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,and,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,then,0,81,16,False
-uhh well we took wood and then got some wheels and got two sticks to help it stay together.,got,0,81,16,True
+uhh well we took wood and then got some wheels and got two sticks to help it stay together.,got,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,some,0,81,16,True
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,wheels,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,and,0,81,16,False
-uhh well we took wood and then got some wheels and got two sticks to help it stay together.,got,0,81,16,True
+uhh well we took wood and then got some wheels and got two sticks to help it stay together.,got,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,two,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,sticks,0,81,16,False
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,to,0,81,16,True
@@ -2270,33 +2270,33 @@ uhh well we took wood and then got some wheels and got two sticks to help it sta
 uhh well we took wood and then got some wheels and got two sticks to help it stay together.,together,1,81,16,True
 so we got we got tape and then um.,so,0,81,18,False
 so we got we got tape and then um.,we,0,81,18,False
-so we got we got tape and then um.,got,0,81,18,True
+so we got we got tape and then um.,got,0,81,18,False
 so we got we got tape and then um.,we,0,81,18,False
-so we got we got tape and then um.,got,0,81,18,True
+so we got we got tape and then um.,got,0,81,18,False
 so we got we got tape and then um.,tape,0,81,18,False
 so we got we got tape and then um.,and,0,81,18,False
 so we got we got tape and then um.,then,0,81,18,False
 so we got we got tape and then um.,um,0,81,18,False
-put the and then we put the tape on the sticks.,put,0,81,19,True
+put the and then we put the tape on the sticks.,put,0,81,19,False
 put the and then we put the tape on the sticks.,the,0,81,19,False
 put the and then we put the tape on the sticks.,and,0,81,19,False
 put the and then we put the tape on the sticks.,then,0,81,19,False
 put the and then we put the tape on the sticks.,we,0,81,19,False
-put the and then we put the tape on the sticks.,put,0,81,19,True
+put the and then we put the tape on the sticks.,put,0,81,19,False
 put the and then we put the tape on the sticks.,the,0,81,19,False
 put the and then we put the tape on the sticks.,tape,0,81,19,False
 put the and then we put the tape on the sticks.,on,1,81,19,True
 put the and then we put the tape on the sticks.,the,0,81,19,False
 put the and then we put the tape on the sticks.,sticks,0,81,19,False
 then put the sticks on the car then put the wheels on the car.,then,0,81,20,False
-then put the sticks on the car then put the wheels on the car.,put,0,81,20,True
+then put the sticks on the car then put the wheels on the car.,put,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,the,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,sticks,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,on,1,81,20,True
 then put the sticks on the car then put the wheels on the car.,the,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,car,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,then,0,81,20,False
-then put the sticks on the car then put the wheels on the car.,put,0,81,20,True
+then put the sticks on the car then put the wheels on the car.,put,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,the,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,wheels,0,81,20,False
 then put the sticks on the car then put the wheels on the car.,on,1,81,20,True
@@ -2391,17 +2391,17 @@ those I used that and a hole puncher and I put like through axles like little re
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,puncher,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,and,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,i,0,86,21,False
-those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,put,0,86,21,True
+those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,put,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,like,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,through,1,86,21,True
-those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,axles,0,86,21,True
+those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,axles,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,like,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,little,0,86,21,True
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,red,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,things,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,and,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,i,0,86,21,False
-those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,put,0,86,21,True
+those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,put,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,like,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,bottle,0,86,21,False
 those I used that and a hole puncher and I put like through axles like little red things and I put like bottle caps.,caps,0,86,21,False
@@ -2429,7 +2429,7 @@ how fast did it go?,how,0,86,26,False
 how fast did it go?,fast,0,86,26,False
 how fast did it go?,did,0,86,26,False
 how fast did it go?,it,0,86,26,False
-how fast did it go?,go,0,86,26,True
+how fast did it go?,go,0,86,26,False
 uh shwoo.,uh,0,86,27,False
 uh shwoo.,shwoo,0,86,27,False
 pretty fast?,pretty,0,86,29,False
@@ -2447,11 +2447,11 @@ what else um were they building there?,else,0,86,34,False
 what else um were they building there?,um,0,86,34,False
 what else um were they building there?,were,0,86,34,False
 what else um were they building there?,they,0,86,34,False
-what else um were they building there?,building,0,86,34,True
+what else um were they building there?,building,0,86,34,False
 what else um were they building there?,there,1,86,34,True
 they were building like um like wooden cars like xxx cars.,they,0,86,35,False
 they were building like um like wooden cars like xxx cars.,were,0,86,35,False
-they were building like um like wooden cars like xxx cars.,building,0,86,35,True
+they were building like um like wooden cars like xxx cars.,building,0,86,35,False
 they were building like um like wooden cars like xxx cars.,like,0,86,35,False
 they were building like um like wooden cars like xxx cars.,um,0,86,35,False
 they were building like um like wooden cars like xxx cars.,like,0,86,35,False
@@ -2494,11 +2494,11 @@ it was like almost closed.,almost,0,129,14,False
 it was like almost closed.,closed,0,129,14,True
 and we got to do the spin on the floor .,and,0,129,15,False
 and we got to do the spin on the floor .,we,0,129,15,False
-and we got to do the spin on the floor .,got,0,129,15,True
+and we got to do the spin on the floor .,got,0,129,15,False
 and we got to do the spin on the floor .,to,0,129,15,True
 and we got to do the spin on the floor .,do,0,129,15,False
 and we got to do the spin on the floor .,the,0,129,15,False
-and we got to do the spin on the floor .,spin,0,129,15,True
+and we got to do the spin on the floor .,spin,0,129,15,False
 and we got to do the spin on the floor .,on,1,129,15,True
 and we got to do the spin on the floor .,the,0,129,15,False
 and we got to do the spin on the floor .,floor,0,129,15,True
@@ -2519,7 +2519,7 @@ we made the cork fly.,we,0,129,20,False
 we made the cork fly.,made,0,129,20,False
 we made the cork fly.,the,0,129,20,False
 we made the cork fly.,cork,0,129,20,False
-we made the cork fly.,fly,0,129,20,True
+we made the cork fly.,fly,0,129,20,False
 and I also made a frisbee but then I failed.,and,0,129,21,False
 and I also made a frisbee but then I failed.,i,0,129,21,False
 and I also made a frisbee but then I failed.,also,0,129,21,False
@@ -2558,9 +2558,9 @@ and the bag and the cork and he ...,the,0,129,29,False
 and the bag and the cork and he ...,cork,0,129,29,False
 and the bag and the cork and he ...,and,0,129,29,False
 and the bag and the cork and he ...,he,0,129,29,False
-hover and float and ...,hover,0,129,30,True
+hover and float and ...,hover,0,129,30,False
 hover and float and ...,and,0,129,30,False
-hover and float and ...,float,0,129,30,True
+hover and float and ...,float,0,129,30,False
 hover and float and ...,and,0,129,30,False
 wait where's the cork?,wait,0,129,31,False
 wait where's the cork?,where's,0,129,31,True
@@ -2580,7 +2580,7 @@ because I this one I ...,this,0,129,36,False
 because I this one I ...,one,0,129,36,False
 because I this one I ...,i,0,129,36,False
 it hovers like this and went high and high and then goes down .,it,0,129,37,False
-it hovers like this and went high and high and then goes down .,hovers,0,129,37,True
+it hovers like this and went high and high and then goes down .,hovers,0,129,37,False
 it hovers like this and went high and high and then goes down .,like,0,129,37,False
 it hovers like this and went high and high and then goes down .,this,0,129,37,False
 it hovers like this and went high and high and then goes down .,and,0,129,37,False
@@ -2590,14 +2590,14 @@ it hovers like this and went high and high and then goes down .,and,0,129,37,Fal
 it hovers like this and went high and high and then goes down .,high,1,129,37,True
 it hovers like this and went high and high and then goes down .,and,0,129,37,False
 it hovers like this and went high and high and then goes down .,then,0,129,37,False
-it hovers like this and went high and high and then goes down .,goes,0,129,37,True
+it hovers like this and went high and high and then goes down .,goes,0,129,37,False
 it hovers like this and went high and high and then goes down .,down,1,129,37,True
 and then this one it spins around .,and,0,129,39,False
 and then this one it spins around .,then,0,129,39,False
 and then this one it spins around .,this,0,129,39,False
 and then this one it spins around .,one,0,129,39,False
 and then this one it spins around .,it,0,129,39,False
-and then this one it spins around .,spins,0,129,39,True
+and then this one it spins around .,spins,0,129,39,False
 and then this one it spins around .,around,1,129,39,True
 and this one I removed the cork and replaced it with this straw.,and,0,129,41,False
 and this one I removed the cork and replaced it with this straw.,this,0,129,41,False
@@ -2649,7 +2649,7 @@ and I try we were our goal was to try to make robots that could move but we didn
 and I try we were our goal was to try to make robots that could move but we didn't do that.,we,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,were,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,our,0,139,14,False
-and I try we were our goal was to try to make robots that could move but we didn't do that.,goal,0,139,14,True
+and I try we were our goal was to try to make robots that could move but we didn't do that.,goal,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,was,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,to,0,139,14,True
 and I try we were our goal was to try to make robots that could move but we didn't do that.,try,0,139,14,False
@@ -2658,7 +2658,7 @@ and I try we were our goal was to try to make robots that could move but we didn
 and I try we were our goal was to try to make robots that could move but we didn't do that.,robots,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,that,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,could,0,139,14,False
-and I try we were our goal was to try to make robots that could move but we didn't do that.,move,0,139,14,True
+and I try we were our goal was to try to make robots that could move but we didn't do that.,move,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,but,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,we,0,139,14,False
 and I try we were our goal was to try to make robots that could move but we didn't do that.,didn't,0,139,14,False
@@ -2694,17 +2694,17 @@ and then I decided to come up with a tootsie roll!,up,0,139,18,True
 and then I decided to come up with a tootsie roll!,with,0,139,18,True
 and then I decided to come up with a tootsie roll!,a,0,139,18,False
 and then I decided to come up with a tootsie roll!,tootsie,0,139,18,False
-and then I decided to come up with a tootsie roll!,roll,0,139,18,True
+and then I decided to come up with a tootsie roll!,roll,0,139,18,False
 whats your tootsie roll made out of?,whats,0,139,20,False
 whats your tootsie roll made out of?,your,0,139,20,False
 whats your tootsie roll made out of?,tootsie,0,139,20,False
-whats your tootsie roll made out of?,roll,0,139,20,True
+whats your tootsie roll made out of?,roll,0,139,20,False
 whats your tootsie roll made out of?,made,0,139,20,False
 whats your tootsie roll made out of?,out,0,139,20,True
 whats your tootsie roll made out of?,of,0,139,20,False
 my tootsie roll is made out of straws.,my,0,139,21,False
 my tootsie roll is made out of straws.,tootsie,0,139,21,False
-my tootsie roll is made out of straws.,roll,0,139,21,True
+my tootsie roll is made out of straws.,roll,0,139,21,False
 my tootsie roll is made out of straws.,is,0,139,21,False
 my tootsie roll is made out of straws.,made,0,139,21,False
 my tootsie roll is made out of straws.,out,0,139,21,True
@@ -2740,7 +2740,7 @@ and then I also made this and I'm gonna give it my grandma.,made,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,this,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,and,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,i'm,0,139,25,False
-and then I also made this and I'm gonna give it my grandma.,gonna,0,139,25,True
+and then I also made this and I'm gonna give it my grandma.,gonna,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,give,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,it,0,139,25,False
 and then I also made this and I'm gonna give it my grandma.,my,0,139,25,False
@@ -2772,7 +2772,7 @@ my robot was able to move but it was not able to stand on its own.,robot,0,139,3
 my robot was able to move but it was not able to stand on its own.,was,0,139,30,False
 my robot was able to move but it was not able to stand on its own.,able,0,139,30,False
 my robot was able to move but it was not able to stand on its own.,to,0,139,30,True
-my robot was able to move but it was not able to stand on its own.,move,0,139,30,True
+my robot was able to move but it was not able to stand on its own.,move,0,139,30,False
 my robot was able to move but it was not able to stand on its own.,but,0,139,30,False
 my robot was able to move but it was not able to stand on its own.,it,0,139,30,False
 my robot was able to move but it was not able to stand on its own.,was,0,139,30,False
@@ -2805,7 +2805,7 @@ what did you what did you build today?,you,0,153,15,False
 what did you what did you build today?,what,0,153,15,False
 what did you what did you build today?,did,0,153,15,False
 what did you what did you build today?,you,0,153,15,False
-what did you what did you build today?,build,0,153,15,True
+what did you what did you build today?,build,0,153,15,False
 what did you what did you build today?,today,0,153,15,False
 um I built um I built a robot.,um,0,153,16,False
 um I built um I built a robot.,i,0,153,16,False
@@ -2843,11 +2843,11 @@ oh.,oh,0,153,21,False
 yea.,yea,0,153,22,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,um,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,first,0,153,23,True
-um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,got,0,153,23,True
+um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,got,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,wood,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,and,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,i,0,153,23,False
-um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,got,0,153,23,True
+um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,got,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,hammer,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,and,0,153,23,False
 um first got wood and I got hammer and started hammering the um um the arms arms arms to um arms to um xxx.,started,0,153,23,False
@@ -2880,7 +2880,7 @@ and then I used then I made a stringy xxx.,stringy,0,153,27,False
 and then I used then I made a stringy xxx.,xxx,0,153,27,False
 then I got to spray a wood piece.,then,0,153,28,False
 then I got to spray a wood piece.,i,0,153,28,False
-then I got to spray a wood piece.,got,0,153,28,True
+then I got to spray a wood piece.,got,0,153,28,False
 then I got to spray a wood piece.,to,0,153,28,True
 then I got to spray a wood piece.,spray,0,153,28,False
 then I got to spray a wood piece.,a,0,153,28,False
@@ -2992,7 +2992,7 @@ I liked um I liked um when the sword and I got into xxx.,the,0,153,51,False
 I liked um I liked um when the sword and I got into xxx.,sword,0,153,51,False
 I liked um I liked um when the sword and I got into xxx.,and,0,153,51,False
 I liked um I liked um when the sword and I got into xxx.,i,0,153,51,False
-I liked um I liked um when the sword and I got into xxx.,got,0,153,51,True
+I liked um I liked um when the sword and I got into xxx.,got,0,153,51,False
 I liked um I liked um when the sword and I got into xxx.,into,0,153,51,True
 I liked um I liked um when the sword and I got into xxx.,xxx,0,153,51,False
 and when I I created around xxx.,and,0,153,52,False
@@ -3018,7 +3018,7 @@ and apron and a xxx.,and,0,153,58,False
 and apron and a xxx.,a,0,153,58,False
 and apron and a xxx.,xxx,0,153,58,False
 wave goodbye.,wave,0,153,59,True
-wave goodbye.,goodbye,0,153,59,True
+wave goodbye.,goodbye,0,153,59,False
 you have seven seconds.,you,0,153,60,False
 you have seven seconds.,have,0,153,60,False
 you have seven seconds.,seven,0,153,60,False
@@ -3217,7 +3217,7 @@ like where um I got to add a tie and a belt and stuff like that.,like,0,64,18,Fa
 like where um I got to add a tie and a belt and stuff like that.,where,0,64,18,True
 like where um I got to add a tie and a belt and stuff like that.,um,0,64,18,False
 like where um I got to add a tie and a belt and stuff like that.,i,0,64,18,False
-like where um I got to add a tie and a belt and stuff like that.,got,0,64,18,True
+like where um I got to add a tie and a belt and stuff like that.,got,0,64,18,False
 like where um I got to add a tie and a belt and stuff like that.,to,0,64,18,True
 like where um I got to add a tie and a belt and stuff like that.,add,0,64,18,False
 like where um I got to add a tie and a belt and stuff like that.,a,0,64,18,False
@@ -3298,7 +3298,7 @@ um I liked I liked when I got to like use like the earphones and the other thing
 um I liked I liked when I got to like use like the earphones and the other thing.,liked,0,64,38,False
 um I liked I liked when I got to like use like the earphones and the other thing.,when,0,64,38,False
 um I liked I liked when I got to like use like the earphones and the other thing.,i,0,64,38,False
-um I liked I liked when I got to like use like the earphones and the other thing.,got,0,64,38,True
+um I liked I liked when I got to like use like the earphones and the other thing.,got,0,64,38,False
 um I liked I liked when I got to like use like the earphones and the other thing.,to,0,64,38,True
 um I liked I liked when I got to like use like the earphones and the other thing.,like,0,64,38,False
 um I liked I liked when I got to like use like the earphones and the other thing.,use,0,64,38,False
@@ -3360,7 +3360,7 @@ out of all of them because you get to build your own stuff out of your own tools
 out of all of them because you get to build your own stuff out of your own tools.,you,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,get,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,to,0,64,50,True
-out of all of them because you get to build your own stuff out of your own tools.,build,0,64,50,True
+out of all of them because you get to build your own stuff out of your own tools.,build,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,your,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,own,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,stuff,0,64,50,False
@@ -3370,7 +3370,7 @@ out of all of them because you get to build your own stuff out of your own tools
 out of all of them because you get to build your own stuff out of your own tools.,own,0,64,50,False
 out of all of them because you get to build your own stuff out of your own tools.,tools,0,64,50,False
 you got to make everything ...,you,0,64,53,False
-you got to make everything ...,got,0,64,53,True
+you got to make everything ...,got,0,64,53,False
 you got to make everything ...,to,0,64,53,True
 you got to make everything ...,make,0,64,53,False
 you got to make everything ...,everything,0,64,53,False
@@ -3486,7 +3486,7 @@ um mine was when we go xxx.,mine,0,81,31,False
 um mine was when we go xxx.,was,0,81,31,False
 um mine was when we go xxx.,when,0,81,31,False
 um mine was when we go xxx.,we,0,81,31,False
-um mine was when we go xxx.,go,0,81,31,True
+um mine was when we go xxx.,go,0,81,31,False
 um mine was when we go xxx.,xxx,0,81,31,False
 yea.,yea,0,81,32,False
 that was the cool part.,that,0,81,33,False
@@ -3517,19 +3517,19 @@ and um there we put tubes to make the little balls go down.,and,0,81,36,False
 and um there we put tubes to make the little balls go down.,um,0,81,36,False
 and um there we put tubes to make the little balls go down.,there,1,81,36,True
 and um there we put tubes to make the little balls go down.,we,0,81,36,False
-and um there we put tubes to make the little balls go down.,put,0,81,36,True
-and um there we put tubes to make the little balls go down.,tubes,0,81,36,True
+and um there we put tubes to make the little balls go down.,put,0,81,36,False
+and um there we put tubes to make the little balls go down.,tubes,0,81,36,False
 and um there we put tubes to make the little balls go down.,to,0,81,36,True
 and um there we put tubes to make the little balls go down.,make,0,81,36,False
 and um there we put tubes to make the little balls go down.,the,0,81,36,False
 and um there we put tubes to make the little balls go down.,little,0,81,36,True
 and um there we put tubes to make the little balls go down.,balls,0,81,36,False
-and um there we put tubes to make the little balls go down.,go,0,81,36,True
+and um there we put tubes to make the little balls go down.,go,0,81,36,False
 and um there we put tubes to make the little balls go down.,down,1,81,36,True
 did you create tunnels and different mazes and ways for the ball to go?,did,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,you,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,create,0,81,37,False
-did you create tunnels and different mazes and ways for the ball to go?,tunnels,0,81,37,True
+did you create tunnels and different mazes and ways for the ball to go?,tunnels,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,and,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,different,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,mazes,0,81,37,False
@@ -3539,7 +3539,7 @@ did you create tunnels and different mazes and ways for the ball to go?,for,0,81
 did you create tunnels and different mazes and ways for the ball to go?,the,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,ball,0,81,37,False
 did you create tunnels and different mazes and ways for the ball to go?,to,0,81,37,True
-did you create tunnels and different mazes and ways for the ball to go?,go,0,81,37,True
+did you create tunnels and different mazes and ways for the ball to go?,go,0,81,37,False
 yes .,yes,0,81,39,False
 yes .,yes,0,81,40,False
 did you guys really like that?,did,0,81,41,False
@@ -3581,13 +3581,13 @@ I had to answer some questions.,some,0,106,19,True
 I had to answer some questions.,questions,0,106,19,False
 and I got a slinky.,and,0,106,20,False
 and I got a slinky.,i,0,106,20,False
-and I got a slinky.,got,0,106,20,True
+and I got a slinky.,got,0,106,20,False
 and I got a slinky.,a,0,106,20,False
 and I got a slinky.,slinky,0,106,20,False
 xxx what?,xxx,0,106,21,False
 xxx what?,what,0,106,21,False
 you got a what?,you,0,106,22,False
-you got a what?,got,0,106,22,True
+you got a what?,got,0,106,22,False
 you got a what?,a,0,106,22,False
 you got a what?,what,0,106,22,False
 I made a creation.,i,0,106,23,False
@@ -3596,7 +3596,7 @@ I made a creation.,a,0,106,23,False
 I made a creation.,creation,0,106,23,False
 and I got a slinky.,and,0,106,24,False
 and I got a slinky.,i,0,106,24,False
-and I got a slinky.,got,0,106,24,True
+and I got a slinky.,got,0,106,24,False
 and I got a slinky.,a,0,106,24,False
 and I got a slinky.,slinky,0,106,24,False
 you wanna.,you,0,106,25,False
@@ -3611,7 +3611,7 @@ and then you also got a slinky in here.,and,0,106,27,False
 and then you also got a slinky in here.,then,0,106,27,False
 and then you also got a slinky in here.,you,0,106,27,False
 and then you also got a slinky in here.,also,0,106,27,False
-and then you also got a slinky in here.,got,0,106,27,True
+and then you also got a slinky in here.,got,0,106,27,False
 and then you also got a slinky in here.,a,0,106,27,False
 and then you also got a slinky in here.,slinky,0,106,27,False
 and then you also got a slinky in here.,in,1,106,27,True
@@ -3679,12 +3679,12 @@ what did you do with this right here?,right,0,113,15,True
 what did you do with this right here?,here,1,113,15,True
 well I builded well something that can go hold ball.,well,0,113,17,False
 well I builded well something that can go hold ball.,i,0,113,17,False
-well I builded well something that can go hold ball.,builded,0,113,17,True
+well I builded well something that can go hold ball.,builded,0,113,17,False
 well I builded well something that can go hold ball.,well,0,113,17,False
 well I builded well something that can go hold ball.,something,0,113,17,False
 well I builded well something that can go hold ball.,that,0,113,17,False
 well I builded well something that can go hold ball.,can,0,113,17,False
-well I builded well something that can go hold ball.,go,0,113,17,True
+well I builded well something that can go hold ball.,go,0,113,17,False
 well I builded well something that can go hold ball.,hold,0,113,17,False
 well I builded well something that can go hold ball.,ball,0,113,17,False
 uhuh .,uhuh,0,113,18,False
@@ -3698,7 +3698,7 @@ and how did you get it to work?,to,0,113,19,True
 and how did you get it to work?,work,0,113,19,False
 I um put things that um over that way and that and that way.,i,0,113,20,False
 I um put things that um over that way and that and that way.,um,0,113,20,False
-I um put things that um over that way and that and that way.,put,0,113,20,True
+I um put things that um over that way and that and that way.,put,0,113,20,False
 I um put things that um over that way and that and that way.,things,0,113,20,False
 I um put things that um over that way and that and that way.,that,0,113,20,False
 I um put things that um over that way and that and that way.,um,0,113,20,False
@@ -3745,7 +3745,7 @@ I used like a basket and another basket and well like make it go inside and on t
 I used like a basket and another basket and well like make it go inside and on the side.,like,0,113,27,False
 I used like a basket and another basket and well like make it go inside and on the side.,make,0,113,27,False
 I used like a basket and another basket and well like make it go inside and on the side.,it,0,113,27,False
-I used like a basket and another basket and well like make it go inside and on the side.,go,0,113,27,True
+I used like a basket and another basket and well like make it go inside and on the side.,go,0,113,27,False
 I used like a basket and another basket and well like make it go inside and on the side.,inside,1,113,27,True
 I used like a basket and another basket and well like make it go inside and on the side.,and,0,113,27,False
 I used like a basket and another basket and well like make it go inside and on the side.,on,1,113,27,True
@@ -3763,8 +3763,8 @@ yea I used pegs well.,well,0,113,30,False
 did you use tubes?,did,0,113,31,False
 did you use tubes?,you,0,113,31,False
 did you use tubes?,use,0,113,31,False
-did you use tubes?,tubes,0,113,31,True
-tubes?,tubes,0,113,32,True
+did you use tubes?,tubes,0,113,31,False
+tubes?,tubes,0,113,32,False
 yea.,yea,0,113,33,False
 and that is and I used my rubber bands.,and,0,113,34,False
 and that is and I used my rubber bands.,that,0,113,34,False
@@ -3810,7 +3810,7 @@ so I used a saw and I also used um some balls at the end.,some,0,113,40,True
 so I used a saw and I also used um some balls at the end.,balls,0,113,40,False
 so I used a saw and I also used um some balls at the end.,at,0,113,40,True
 so I used a saw and I also used um some balls at the end.,the,0,113,40,False
-so I used a saw and I also used um some balls at the end.,end,0,113,40,True
+so I used a saw and I also used um some balls at the end.,end,0,113,40,False
 mhm.,mhm,0,113,41,False
 and it was very fun.,and,0,113,42,False
 and it was very fun.,it,0,113,42,False
@@ -3840,14 +3840,14 @@ and what did you build that you used the saw?,and,0,113,46,False
 and what did you build that you used the saw?,what,0,113,46,False
 and what did you build that you used the saw?,did,0,113,46,False
 and what did you build that you used the saw?,you,0,113,46,False
-and what did you build that you used the saw?,build,0,113,46,True
+and what did you build that you used the saw?,build,0,113,46,False
 and what did you build that you used the saw?,that,0,113,46,False
 and what did you build that you used the saw?,you,0,113,46,False
 and what did you build that you used the saw?,used,0,113,46,False
 and what did you build that you used the saw?,the,0,113,46,False
 and what did you build that you used the saw?,saw,0,113,46,False
 I builded a long robot.,i,0,113,47,False
-I builded a long robot.,builded,0,113,47,True
+I builded a long robot.,builded,0,113,47,False
 I builded a long robot.,a,0,113,47,False
 I builded a long robot.,long,1,113,47,True
 I builded a long robot.,robot,0,113,47,False
@@ -4017,10 +4017,10 @@ and I used this with the saw to cut it.,with,0,113,76,True
 and I used this with the saw to cut it.,the,0,113,76,False
 and I used this with the saw to cut it.,saw,0,113,76,False
 and I used this with the saw to cut it.,to,0,113,76,True
-and I used this with the saw to cut it.,cut,0,113,76,True
+and I used this with the saw to cut it.,cut,0,113,76,False
 and I used this with the saw to cut it.,it,0,113,76,False
 we builded a Moana boat and um we um.,we,0,129,13,False
-we builded a Moana boat and um we um.,builded,0,129,13,True
+we builded a Moana boat and um we um.,builded,0,129,13,False
 we builded a Moana boat and um we um.,a,0,129,13,False
 we builded a Moana boat and um we um.,moana,0,129,13,False
 we builded a Moana boat and um we um.,boat,0,129,13,False
@@ -4028,21 +4028,21 @@ we builded a Moana boat and um we um.,and,0,129,13,False
 we builded a Moana boat and um we um.,um,0,129,13,False
 we builded a Moana boat and um we um.,we,0,129,13,False
 we builded a Moana boat and um we um.,um,0,129,13,False
-put it in the air tunnel?,put,0,129,14,True
+put it in the air tunnel?,put,0,129,14,False
 put it in the air tunnel?,it,0,129,14,False
 put it in the air tunnel?,in,1,129,14,True
 put it in the air tunnel?,the,0,129,14,False
 put it in the air tunnel?,air,0,129,14,True
-put it in the air tunnel?,tunnel,0,129,14,True
-put it in the air tunnel.,put,0,129,15,True
+put it in the air tunnel?,tunnel,0,129,14,False
+put it in the air tunnel.,put,0,129,15,False
 put it in the air tunnel.,it,0,129,15,False
 put it in the air tunnel.,in,1,129,15,True
 put it in the air tunnel.,the,0,129,15,False
 put it in the air tunnel.,air,0,129,15,True
-put it in the air tunnel.,tunnel,0,129,15,True
+put it in the air tunnel.,tunnel,0,129,15,False
 it didn't fly because it was too heavy.,it,0,129,16,False
 it didn't fly because it was too heavy.,didn't,0,129,16,False
-it didn't fly because it was too heavy.,fly,0,129,16,True
+it didn't fly because it was too heavy.,fly,0,129,16,False
 it didn't fly because it was too heavy.,because,0,129,16,False
 it didn't fly because it was too heavy.,it,0,129,16,False
 it didn't fly because it was too heavy.,was,0,129,16,False
@@ -4062,7 +4062,7 @@ and we made red and white stripes on the sail.,made,0,129,19,False
 and we made red and white stripes on the sail.,red,0,129,19,False
 and we made red and white stripes on the sail.,and,0,129,19,False
 and we made red and white stripes on the sail.,white,0,129,19,False
-and we made red and white stripes on the sail.,stripes,0,129,19,True
+and we made red and white stripes on the sail.,stripes,0,129,19,False
 and we made red and white stripes on the sail.,on,1,129,19,True
 and we made red and white stripes on the sail.,the,0,129,19,False
 and we made red and white stripes on the sail.,sail,0,129,19,False
@@ -4101,7 +4101,7 @@ you make something with black fabric today.,black,0,129,27,False
 you make something with black fabric today.,fabric,0,129,27,False
 you make something with black fabric today.,today,0,129,27,False
 you cut it out with scissors.,you,0,129,28,False
-you cut it out with scissors.,cut,0,129,28,True
+you cut it out with scissors.,cut,0,129,28,False
 you cut it out with scissors.,it,0,129,28,False
 you cut it out with scissors.,out,1,129,28,True
 you cut it out with scissors.,with,0,129,28,True
@@ -4119,7 +4119,7 @@ I tried to make my own um thing but I wanted to build but my mom told me I could
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,i,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,wanted,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,to,0,129,30,True
-I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,build,0,129,30,True
+I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,build,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,but,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,my,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,mom,0,129,30,False
@@ -4127,13 +4127,13 @@ I tried to make my own um thing but I wanted to build but my mom told me I could
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,me,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,i,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,could,0,129,30,False
-I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,build,0,129,30,True
+I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,build,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,a,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,moana,0,129,30,False
 I tried to make my own um thing but I wanted to build but my mom told me I could build a Moana boat.,boat,0,129,30,False
 and I builded a Moana boat.,and,0,129,32,False
 and I builded a Moana boat.,i,0,129,32,False
-and I builded a Moana boat.,builded,0,129,32,True
+and I builded a Moana boat.,builded,0,129,32,False
 and I builded a Moana boat.,a,0,129,32,False
 and I builded a Moana boat.,moana,0,129,32,False
 and I builded a Moana boat.,boat,0,129,32,False
@@ -4150,7 +4150,7 @@ and when I get home I'm gonna make another one for my house.,i,0,129,34,False
 and when I get home I'm gonna make another one for my house.,get,0,129,34,False
 and when I get home I'm gonna make another one for my house.,home,0,129,34,False
 and when I get home I'm gonna make another one for my house.,i'm,0,129,34,False
-and when I get home I'm gonna make another one for my house.,gonna,0,129,34,True
+and when I get home I'm gonna make another one for my house.,gonna,0,129,34,False
 and when I get home I'm gonna make another one for my house.,make,0,129,34,False
 and when I get home I'm gonna make another one for my house.,another,0,129,34,False
 and when I get home I'm gonna make another one for my house.,one,0,129,34,False
@@ -4158,7 +4158,7 @@ and when I get home I'm gonna make another one for my house.,for,0,129,34,False
 and when I get home I'm gonna make another one for my house.,my,0,129,34,False
 and when I get home I'm gonna make another one for my house.,house,0,129,34,False
 it's gonna be so fun.,it's,0,129,35,False
-it's gonna be so fun.,gonna,0,129,35,True
+it's gonna be so fun.,gonna,0,129,35,False
 it's gonna be so fun.,be,0,129,35,False
 it's gonna be so fun.,so,0,129,35,False
 it's gonna be so fun.,fun,0,129,35,False
@@ -4172,7 +4172,7 @@ today was it was like really fun.,fun,0,129,36,False
 we had a good day didn't we?,we,0,129,37,False
 we had a good day didn't we?,had,0,129,37,False
 we had a good day didn't we?,a,0,129,37,False
-we had a good day didn't we?,good,0,129,37,True
+we had a good day didn't we?,good,0,129,37,False
 we had a good day didn't we?,day,0,129,37,False
 we had a good day didn't we?,didn't,0,129,37,False
 we had a good day didn't we?,we,0,129,37,False
@@ -4221,7 +4221,7 @@ I made a zipline across Chicago that um worked really well because I got to take
 I made a zipline across Chicago that um worked really well because I got to take a picture.,well,0,13,19,False
 I made a zipline across Chicago that um worked really well because I got to take a picture.,because,0,13,19,False
 I made a zipline across Chicago that um worked really well because I got to take a picture.,i,0,13,19,False
-I made a zipline across Chicago that um worked really well because I got to take a picture.,got,0,13,19,True
+I made a zipline across Chicago that um worked really well because I got to take a picture.,got,0,13,19,False
 I made a zipline across Chicago that um worked really well because I got to take a picture.,to,0,13,19,True
 I made a zipline across Chicago that um worked really well because I got to take a picture.,take,0,13,19,False
 I made a zipline across Chicago that um worked really well because I got to take a picture.,a,0,13,19,False
@@ -4229,12 +4229,12 @@ I made a zipline across Chicago that um worked really well because I got to take
 and I even got a slinky.,and,0,13,21,False
 and I even got a slinky.,i,0,13,21,False
 and I even got a slinky.,even,0,13,21,False
-and I even got a slinky.,got,0,13,21,True
+and I even got a slinky.,got,0,13,21,False
 and I even got a slinky.,a,0,13,21,False
 and I even got a slinky.,slinky,0,13,21,False
 and I'm gonna let my brother share now.,and,0,13,22,False
 and I'm gonna let my brother share now.,i'm,0,13,22,False
-and I'm gonna let my brother share now.,gonna,0,13,22,True
+and I'm gonna let my brother share now.,gonna,0,13,22,False
 and I'm gonna let my brother share now.,let,0,13,22,False
 and I'm gonna let my brother share now.,my,0,13,22,False
 and I'm gonna let my brother share now.,brother,0,13,22,False
@@ -4266,12 +4266,12 @@ um so we were putting the balls down the tube.,um,0,13,26,False
 um so we were putting the balls down the tube.,so,0,13,26,False
 um so we were putting the balls down the tube.,we,0,13,26,False
 um so we were putting the balls down the tube.,were,0,13,26,False
-um so we were putting the balls down the tube.,putting,0,13,26,True
+um so we were putting the balls down the tube.,putting,0,13,26,False
 um so we were putting the balls down the tube.,the,0,13,26,False
 um so we were putting the balls down the tube.,balls,0,13,26,False
 um so we were putting the balls down the tube.,down,1,13,26,True
 um so we were putting the balls down the tube.,the,0,13,26,False
-um so we were putting the balls down the tube.,tube,0,13,26,True
+um so we were putting the balls down the tube.,tube,0,13,26,False
 yea?,yea,0,13,27,False
 and then we were trying to get the three balls in the basket.,and,0,13,28,False
 and then we were trying to get the three balls in the basket.,then,0,13,28,False
@@ -4304,10 +4304,10 @@ and I made something that got the ball rolling and knocked it to the bell.,i,0,1
 and I made something that got the ball rolling and knocked it to the bell.,made,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,something,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,that,0,13,32,False
-and I made something that got the ball rolling and knocked it to the bell.,got,0,13,32,True
+and I made something that got the ball rolling and knocked it to the bell.,got,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,the,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,ball,0,13,32,False
-and I made something that got the ball rolling and knocked it to the bell.,rolling,0,13,32,True
+and I made something that got the ball rolling and knocked it to the bell.,rolling,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,and,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,knocked,0,13,32,False
 and I made something that got the ball rolling and knocked it to the bell.,it,0,13,32,False
@@ -4355,7 +4355,7 @@ string.,string,0,138,19,False
 yea?,yea,0,138,20,False
 are you going to take it home with us?,are,0,138,21,False
 are you going to take it home with us?,you,0,138,21,False
-are you going to take it home with us?,going,0,138,21,True
+are you going to take it home with us?,going,0,138,21,False
 are you going to take it home with us?,to,0,138,21,True
 are you going to take it home with us?,take,0,138,21,False
 are you going to take it home with us?,it,0,138,21,False
@@ -4372,7 +4372,7 @@ what did yours look like in the end?,look,0,138,24,False
 what did yours look like in the end?,like,0,138,24,False
 what did yours look like in the end?,in,0,138,24,True
 what did yours look like in the end?,the,0,138,24,False
-what did yours look like in the end?,end,0,138,24,True
+what did yours look like in the end?,end,0,138,24,False
 um mine has some strings to the side.,um,0,138,25,False
 um mine has some strings to the side.,mine,0,138,25,False
 um mine has some strings to the side.,has,0,138,25,False
@@ -4470,15 +4470,15 @@ an eye thing.,an,0,138,42,False
 an eye thing.,eye,0,138,42,False
 an eye thing.,thing,0,138,42,False
 eye goggles.,eye,0,138,43,False
-eye goggles.,goggles,0,138,43,True
+eye goggles.,goggles,0,138,43,False
 eye goggles.,eye,0,138,44,False
-eye goggles.,goggles,0,138,44,True
+eye goggles.,goggles,0,138,44,False
 okay so we made a flying machine.,okay,0,153,14,False
 okay so we made a flying machine.,so,0,153,14,False
 okay so we made a flying machine.,we,0,153,14,False
 okay so we made a flying machine.,made,0,153,14,False
 okay so we made a flying machine.,a,0,153,14,False
-okay so we made a flying machine.,flying,0,153,14,True
+okay so we made a flying machine.,flying,0,153,14,False
 okay so we made a flying machine.,machine,0,153,14,False
 and this is mine.,and,0,153,15,False
 and this is mine.,this,0,153,15,False
@@ -4487,7 +4487,7 @@ and this is mine.,mine,0,153,15,False
 I made it aerodynamic .,i,0,153,17,False
 I made it aerodynamic .,made,0,153,17,False
 I made it aerodynamic .,it,0,153,17,False
-I made it aerodynamic .,aerodynamic,0,153,17,True
+I made it aerodynamic .,aerodynamic,0,153,17,False
 I even made it a kite!,i,0,153,18,False
 I even made it a kite!,even,0,153,18,False
 I even made it a kite!,made,0,153,18,False
@@ -4581,7 +4581,7 @@ so today's challenge was to try to make something that can fly.,make,0,153,37,Fa
 so today's challenge was to try to make something that can fly.,something,0,153,37,False
 so today's challenge was to try to make something that can fly.,that,0,153,37,False
 so today's challenge was to try to make something that can fly.,can,0,153,37,False
-so today's challenge was to try to make something that can fly.,fly,0,153,37,True
+so today's challenge was to try to make something that can fly.,fly,0,153,37,False
 look at the camera.,look,0,153,38,False
 look at the camera.,at,1,153,38,True
 look at the camera.,the,0,153,38,False
@@ -4622,7 +4622,7 @@ and I hope whoever else goes likes it because I really enjoyed it.,i,0,153,43,Fa
 and I hope whoever else goes likes it because I really enjoyed it.,hope,0,153,43,False
 and I hope whoever else goes likes it because I really enjoyed it.,whoever,0,153,43,False
 and I hope whoever else goes likes it because I really enjoyed it.,else,0,153,43,False
-and I hope whoever else goes likes it because I really enjoyed it.,goes,0,153,43,True
+and I hope whoever else goes likes it because I really enjoyed it.,goes,0,153,43,False
 and I hope whoever else goes likes it because I really enjoyed it.,likes,0,153,43,False
 and I hope whoever else goes likes it because I really enjoyed it.,it,0,153,43,False
 and I hope whoever else goes likes it because I really enjoyed it.,because,0,153,43,False
@@ -4644,7 +4644,7 @@ we weren't very successful but we were really successful with the flying one.,re
 we weren't very successful but we were really successful with the flying one.,successful,0,153,45,False
 we weren't very successful but we were really successful with the flying one.,with,0,153,45,True
 we weren't very successful but we were really successful with the flying one.,the,0,153,45,False
-we weren't very successful but we were really successful with the flying one.,flying,0,153,45,True
+we weren't very successful but we were really successful with the flying one.,flying,0,153,45,False
 we weren't very successful but we were really successful with the flying one.,one,0,153,45,False
 so it was really fun.,so,0,153,47,False
 so it was really fun.,it,0,153,47,False
@@ -4697,7 +4697,7 @@ the the thingy the challenge thing was make somethging that could fly so I took 
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,somethging,0,19,13,False
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,that,0,19,13,False
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,could,0,19,13,False
-the the thingy the challenge thing was make somethging that could fly so I took a long time.,fly,0,19,13,True
+the the thingy the challenge thing was make somethging that could fly so I took a long time.,fly,0,19,13,False
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,so,0,19,13,False
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,i,0,19,13,False
 the the thingy the challenge thing was make somethging that could fly so I took a long time.,took,0,19,13,False
@@ -4741,7 +4741,7 @@ you thought she had good ideas?,you,0,19,23,False
 you thought she had good ideas?,thought,0,19,23,False
 you thought she had good ideas?,she,0,19,23,False
 you thought she had good ideas?,had,0,19,23,False
-you thought she had good ideas?,good,0,19,23,True
+you thought she had good ideas?,good,0,19,23,False
 you thought she had good ideas?,ideas,0,19,23,False
 yea.,yea,0,19,24,False
 and you you did something a little diffferent than hers though.,and,0,19,25,False
@@ -4846,7 +4846,7 @@ and then it just.,then,0,19,47,False
 and then it just.,it,0,19,47,False
 and then it just.,just,0,19,47,False
 it hovered there for a minute.,it,0,19,48,False
-it hovered there for a minute.,hovered,0,19,48,True
+it hovered there for a minute.,hovered,0,19,48,False
 it hovered there for a minute.,there,1,19,48,True
 it hovered there for a minute.,for,0,19,48,False
 it hovered there for a minute.,a,0,19,48,False
@@ -4855,30 +4855,30 @@ yea well it did hover.,yea,0,19,49,False
 yea well it did hover.,well,0,19,49,False
 yea well it did hover.,it,0,19,49,False
 yea well it did hover.,did,0,19,49,False
-yea well it did hover.,hover,0,19,49,True
+yea well it did hover.,hover,0,19,49,False
 and xxx.,and,0,19,50,False
 and xxx.,xxx,0,19,50,False
 no hovering was fair.,no,0,19,51,False
-no hovering was fair.,hovering,0,19,51,True
+no hovering was fair.,hovering,0,19,51,False
 no hovering was fair.,was,0,19,51,False
 no hovering was fair.,fair,0,19,51,False
-hover float or fly?,hover,0,19,52,True
-hover float or fly?,float,0,19,52,True
+hover float or fly?,hover,0,19,52,False
+hover float or fly?,float,0,19,52,False
 hover float or fly?,or,0,19,52,False
-hover float or fly?,fly,0,19,52,True
+hover float or fly?,fly,0,19,52,False
 um hover float or fly or twirl?,um,0,19,53,False
-um hover float or fly or twirl?,hover,0,19,53,True
-um hover float or fly or twirl?,float,0,19,53,True
+um hover float or fly or twirl?,hover,0,19,53,False
+um hover float or fly or twirl?,float,0,19,53,False
 um hover float or fly or twirl?,or,0,19,53,False
-um hover float or fly or twirl?,fly,0,19,53,True
+um hover float or fly or twirl?,fly,0,19,53,False
 um hover float or fly or twirl?,or,0,19,53,False
-um hover float or fly or twirl?,twirl,0,19,53,True
-twirl.,twirl,0,19,54,True
+um hover float or fly or twirl?,twirl,0,19,53,False
+twirl.,twirl,0,19,54,False
 yours twirrled.,yours,0,19,55,False
 yours twirrled.,twirrled,0,19,55,False
 yea.,yea,0,19,56,False
 mine twirled a lot.,mine,0,19,57,False
-mine twirled a lot.,twirled,0,19,57,True
+mine twirled a lot.,twirled,0,19,57,False
 mine twirled a lot.,a,0,19,57,False
 mine twirled a lot.,lot,0,19,57,True
 kay.,kay,0,19,58,False
@@ -4948,7 +4948,7 @@ and I kind of filled it up by making things and putting it together.,by,0,20,23,
 and I kind of filled it up by making things and putting it together.,making,0,20,23,False
 and I kind of filled it up by making things and putting it together.,things,0,20,23,False
 and I kind of filled it up by making things and putting it together.,and,0,20,23,False
-and I kind of filled it up by making things and putting it together.,putting,0,20,23,True
+and I kind of filled it up by making things and putting it together.,putting,0,20,23,False
 and I kind of filled it up by making things and putting it together.,it,0,20,23,False
 and I kind of filled it up by making things and putting it together.,together,1,20,23,True
 and xxx here so he ...,and,0,20,24,False
@@ -5059,17 +5059,17 @@ the challenge was to make something floats fly or twirl.,was,0,4,17,False
 the challenge was to make something floats fly or twirl.,to,0,4,17,True
 the challenge was to make something floats fly or twirl.,make,0,4,17,False
 the challenge was to make something floats fly or twirl.,something,0,4,17,False
-the challenge was to make something floats fly or twirl.,floats,0,4,17,True
-the challenge was to make something floats fly or twirl.,fly,0,4,17,True
+the challenge was to make something floats fly or twirl.,floats,0,4,17,False
+the challenge was to make something floats fly or twirl.,fly,0,4,17,False
 the challenge was to make something floats fly or twirl.,or,0,4,17,False
-the challenge was to make something floats fly or twirl.,twirl,0,4,17,True
+the challenge was to make something floats fly or twirl.,twirl,0,4,17,False
 um the whirlytwirly um twirled and floated.,um,0,4,18,False
 um the whirlytwirly um twirled and floated.,the,0,4,18,False
 um the whirlytwirly um twirled and floated.,whirlytwirly,0,4,18,False
 um the whirlytwirly um twirled and floated.,um,0,4,18,False
-um the whirlytwirly um twirled and floated.,twirled,0,4,18,True
+um the whirlytwirly um twirled and floated.,twirled,0,4,18,False
 um the whirlytwirly um twirled and floated.,and,0,4,18,False
-um the whirlytwirly um twirled and floated.,floated,0,4,18,True
+um the whirlytwirly um twirled and floated.,floated,0,4,18,False
 what kind of supplies did you use?,what,0,4,19,False
 what kind of supplies did you use?,kind,0,4,19,False
 what kind of supplies did you use?,of,0,4,19,False
@@ -5211,7 +5211,7 @@ a balloon that flies.,that,0,40,14,False
 a balloon that flies.,flies,0,40,14,False
 did he fly?,did,0,40,15,False
 did he fly?,he,0,40,15,False
-did he fly?,fly,0,40,15,True
+did he fly?,fly,0,40,15,False
 it flied all the way to the top.,it,0,40,16,False
 it flied all the way to the top.,flied,0,40,16,False
 it flied all the way to the top.,all,1,40,16,True
@@ -5238,7 +5238,7 @@ and also I get to put it in the wind so it could go up.,also,0,40,21,False
 and also I get to put it in the wind so it could go up.,i,0,40,21,False
 and also I get to put it in the wind so it could go up.,get,0,40,21,False
 and also I get to put it in the wind so it could go up.,to,0,40,21,True
-and also I get to put it in the wind so it could go up.,put,0,40,21,True
+and also I get to put it in the wind so it could go up.,put,0,40,21,False
 and also I get to put it in the wind so it could go up.,it,0,40,21,False
 and also I get to put it in the wind so it could go up.,in,1,40,21,True
 and also I get to put it in the wind so it could go up.,the,0,40,21,False
@@ -5246,7 +5246,7 @@ and also I get to put it in the wind so it could go up.,wind,0,40,21,False
 and also I get to put it in the wind so it could go up.,so,0,40,21,False
 and also I get to put it in the wind so it could go up.,it,0,40,21,False
 and also I get to put it in the wind so it could go up.,could,0,40,21,False
-and also I get to put it in the wind so it could go up.,go,0,40,21,True
+and also I get to put it in the wind so it could go up.,go,0,40,21,False
 and also I get to put it in the wind so it could go up.,up,1,40,21,True
 it's two!,it's,0,40,22,False
 it's two!,two,0,40,22,False
@@ -5270,7 +5270,7 @@ welll we made these flying well we made these paper things that fly.,welll,0,55,
 welll we made these flying well we made these paper things that fly.,we,0,55,15,False
 welll we made these flying well we made these paper things that fly.,made,0,55,15,False
 welll we made these flying well we made these paper things that fly.,these,0,55,15,False
-welll we made these flying well we made these paper things that fly.,flying,0,55,15,True
+welll we made these flying well we made these paper things that fly.,flying,0,55,15,False
 welll we made these flying well we made these paper things that fly.,well,0,55,15,False
 welll we made these flying well we made these paper things that fly.,we,0,55,15,False
 welll we made these flying well we made these paper things that fly.,made,0,55,15,False
@@ -5278,7 +5278,7 @@ welll we made these flying well we made these paper things that fly.,these,0,55,
 welll we made these flying well we made these paper things that fly.,paper,0,55,15,False
 welll we made these flying well we made these paper things that fly.,things,0,55,15,False
 welll we made these flying well we made these paper things that fly.,that,0,55,15,False
-welll we made these flying well we made these paper things that fly.,fly,0,55,15,True
+welll we made these flying well we made these paper things that fly.,fly,0,55,15,False
 xxx what you do?,xxx,0,55,17,False
 xxx what you do?,what,0,55,17,False
 xxx what you do?,you,0,55,17,False
@@ -5294,11 +5294,11 @@ the wind tun wind tunnel to make em fly.,the,0,55,22,False
 the wind tun wind tunnel to make em fly.,wind,0,55,22,False
 the wind tun wind tunnel to make em fly.,tun,0,55,22,False
 the wind tun wind tunnel to make em fly.,wind,0,55,22,False
-the wind tun wind tunnel to make em fly.,tunnel,0,55,22,True
+the wind tun wind tunnel to make em fly.,tunnel,0,55,22,False
 the wind tun wind tunnel to make em fly.,to,0,55,22,True
 the wind tun wind tunnel to make em fly.,make,0,55,22,False
 the wind tun wind tunnel to make em fly.,em,0,55,22,False
-the wind tun wind tunnel to make em fly.,fly,0,55,22,True
+the wind tun wind tunnel to make em fly.,fly,0,55,22,False
 my didn't work the first time.,my,0,55,23,False
 my didn't work the first time.,didn't,0,55,23,False
 my didn't work the first time.,work,0,55,23,False
@@ -5321,12 +5321,12 @@ but then but then I but then but then I used something else to make it fly.,else
 but then but then I but then but then I used something else to make it fly.,to,0,55,24,True
 but then but then I but then but then I used something else to make it fly.,make,0,55,24,False
 but then but then I but then but then I used something else to make it fly.,it,0,55,24,False
-but then but then I but then but then I used something else to make it fly.,fly,0,55,24,True
+but then but then I but then but then I used something else to make it fly.,fly,0,55,24,False
 and it flew!,and,0,55,26,False
 and it flew!,it,0,55,26,False
 and it flew!,flew,0,55,26,False
 xxx ...,xxx,0,55,27,False
-go ahead.,go,0,57,15,True
+go ahead.,go,0,57,15,False
 go ahead.,ahead,0,57,15,True
 well we did we made a hammer.,well,0,57,16,False
 well we did we made a hammer.,we,0,57,16,False
@@ -5385,7 +5385,7 @@ cool.,cool,0,7,21,False
 and did it fly?,and,0,7,22,False
 and did it fly?,did,0,7,22,False
 and did it fly?,it,0,7,22,False
-and did it fly?,fly,0,7,22,True
+and did it fly?,fly,0,7,22,False
 and it flew.,and,0,7,23,False
 and it flew.,it,0,7,23,False
 and it flew.,flew,0,7,23,False
@@ -5395,7 +5395,7 @@ what's that?,what's,0,7,25,False
 what's that?,that,0,7,25,False
 xxx you gotta say that.,xxx,0,7,27,False
 xxx you gotta say that.,you,0,7,27,False
-xxx you gotta say that.,gotta,0,7,27,True
+xxx you gotta say that.,gotta,0,7,27,False
 xxx you gotta say that.,say,0,7,27,False
 xxx you gotta say that.,that,0,7,27,False
 say that.,say,0,7,28,False
@@ -5408,7 +5408,7 @@ what'd you how'd you make that fly?,how'd,0,7,30,False
 what'd you how'd you make that fly?,you,0,7,30,False
 what'd you how'd you make that fly?,make,0,7,30,False
 what'd you how'd you make that fly?,that,0,7,30,False
-what'd you how'd you make that fly?,fly,0,7,30,True
+what'd you how'd you make that fly?,fly,0,7,30,False
 howd you make that?,howd,0,7,31,False
 howd you make that?,you,0,7,31,False
 howd you make that?,make,0,7,31,False
