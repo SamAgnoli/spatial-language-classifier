@@ -58,7 +58,7 @@ The CSV format the notebooks expect is documented in
 2. **Contextual classification.** Each candidate word is scored by an already fine-tuned DeBERTa-v3
    (using coding data from Zhou et al., in prep.) *with its utterance* as context.
 3. **Calibrated confidence.** Raw probabilities are over-confident, so a temperature
-   (`data/calibration.json`, `T = 1.816`) rescales them — the hard 0/1 decision is unchanged,
+   (`data/calibration.json`, `T = 1.87`) rescales them — the hard 0/1 decision is unchanged,
    but the confidence can be read literally.
 
 ## Requirements
