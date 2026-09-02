@@ -48,12 +48,13 @@ The CSV format the notebooks expect is documented in
 
 ## How it works
 
-1. **Dictionary gate.** A spatial wordlist from Cannon et al., 2007 and extended by Zhou et al., (in prep.)
+1. **Dictionary gate.** A spatial wordlist from Cannon et al., 2007 and extended by Polinsky et al., 2023.
    (`data/spatial dictionary.txt`, parsed into exact + prefix matchers in `data/spatial_matcher.json`)
    flags candidate words. **At inference** (`classify_utterance` / notebook 03), only candidates are
    scored — non-candidates are taken as non-spatial and skipped, never reaching the model. *(During
    training and evaluation, every word is still passed through the model, non-candidates labeled `0`;
    that's why the eval reports both a "candidates-only" headline view and an "overall (every word)" view.)*
+   Note, we encourage people to use the expanded dictionary from Zhou et al., (in prep) when human coding and training future models.
 2. **Contextual classification.** Each candidate word is scored by an already fine-tuned DeBERTa-v3
    (using coding data from Zhou et al., in prep.) *with its utterance* as context.
 3. **Calibrated confidence.** Raw probabilities are over-confident, so a temperature
