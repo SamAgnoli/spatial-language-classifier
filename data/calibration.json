@@ -1,5 +1,5 @@
 {
   "calib_method": "temp",
-  "temperature_T": 1.8735,
-  "note": "Temperature fitted on the validation-split dictionary candidates (n=559) with the published model, using the Cannon et al. (2007) / Polinsky et al. (2023) dictionary gate in data/spatial_matcher.json. Regenerate from your own run if you fine-tune a new model or change the dictionary."
+  "temperature_T": 1.4609,
+  "note": "Temperature fitted on the validation-split dictionary candidates (n=592) with the published model, using the Cannon et al. (2007) / Polinsky et al. (2023) dictionary gate in data/spatial_matcher.json. Regenerate if the model is re-fine-tuned or the dictionary changes."
 }
