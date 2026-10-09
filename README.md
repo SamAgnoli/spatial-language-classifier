@@ -5,6 +5,8 @@ model decides whether that word is being used **spatially** (`1`) or **not** (`0
 utterance context*. At inference it scores every dictionary-candidate word in an utterance, so you get
 per-word spatial labels with a calibrated confidence for each.
 
+Read the full paper on the [ACL Anthology](https://aclanthology.org/2026.aimecon-wip.28/).
+
 **Model:** [`SamAgnoli/deberta-v3-base-spatial-language-detection`](https://huggingface.co/SamAgnoli/deberta-v3-base-spatial-language-detection)
 · fine-tuned from [`microsoft/deberta-v3-base`](https://huggingface.co/microsoft/deberta-v3-base).
 
