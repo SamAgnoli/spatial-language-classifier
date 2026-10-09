@@ -76,6 +76,7 @@ Please cite the source if you use it.
 ## Citation
 
 If you use this model or pipeline, please use the following citations:
+
 Agnoli, S., Shi, Q., & Uttal, D. (2026, October). Fine-tuning DeBERTa-v3 to Automate Spatial Language Classification. In Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Works in Progress (pp. 211-215).
 
 
